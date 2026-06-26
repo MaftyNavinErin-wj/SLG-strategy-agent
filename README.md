@@ -28,9 +28,13 @@ Raw decks and extracted full text should not be committed unless explicitly appr
 - `prompts/`: prompts for starting a new AI thread with the right context.
 - `sources/`: source manifest only; no raw confidential files by default.
 
+Key context notes:
+
+- `context/slg_deck_digest.md`: distilled thesis and teardown framework for the SLG source deck.
+- `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
+
 ## Working Principle
 
 Analyze a category through:
 
 `category definition -> historical sources -> mountain split -> market structure -> product mechanics -> user / traffic -> team capability -> future opportunities -> coverage implications`
-
