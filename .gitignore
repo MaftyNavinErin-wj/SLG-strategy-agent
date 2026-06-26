@@ -1,0 +1,15 @@
+# Source decks and full raw extracts should stay local unless explicitly approved.
+*.pdf
+*.ppt
+*.pptx
+*.docx
+*.xlsx
+*_extracted.txt
+*extracted*.txt
+
+# Local temp / cache
+.DS_Store
+Thumbs.db
+tmp/
+cache/
+
