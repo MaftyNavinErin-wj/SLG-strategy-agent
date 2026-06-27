@@ -12,3 +12,7 @@ Temporary local extraction created during analysis:
 
 Use these local files for analysis in Codex. Keep the repo as distilled working memory and reusable workflow unless the user explicitly asks to archive source files.
 
+## Public Research
+
+- `sources/public_research/slg_representative_games_source_index.md`: public-source index for representative SLG mechanism research, currently covering 无尽冬日 / Whiteout Survival, 率土之滨, 三国志战略版, and 三国谋定天下.
+

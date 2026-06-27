@@ -32,6 +32,15 @@ Key context notes:
 
 - `context/slg_deck_digest.md`: distilled thesis and teardown framework for the SLG source deck.
 - `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
+- `context/slg_representative_games_research_findings.md`: current synthesis of research method conclusions and representative product findings.
+- `context/slg_representative_mechanics_overview.md`: first-pass mechanism comparison for representative SLG products, currently 无尽冬日, 率土之滨, 三国志战略版, and 三国谋定天下.
+- `context/game_mechanics/`: per-game public-source mechanism notes.
+- `sources/public_research/`: public source indexes and reliability notes.
+
+Key workflows:
+
+- `workflows/mountain_discussion_agent_workflow.md`: broad category / mountain discussion workflow.
+- `workflows/slg_mechanics_research_workflow.md`: reusable workflow for deep SLG mechanism research and current-meta handling.
 
 ## Working Principle
 
