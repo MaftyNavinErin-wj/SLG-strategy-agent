@@ -19,6 +19,33 @@ Use the repo as layered working memory:
 4. Re-browse or verify when the question depends on live versions, current meta, current events, rankings, or patch state.
 5. State uncertainty when the source layer is incomplete or stale.
 
+## Maintenance Rules
+
+Treat this file as a living entry point, not a comprehensive archive.
+
+Update this brief when:
+
+1. A new important context file is added and future agents need to know when to read it.
+2. The primary mountain taxonomy or secondary analysis lens changes.
+3. A previously stable conclusion becomes uncertain and should move into the volatile / verification layer.
+4. A research gap is closed, reframed, or replaced by a more important gap.
+5. A new live-meta area appears and should be listed as requiring current verification.
+6. The answering protocol changes because the workspace has learned a better way to route questions.
+
+Do not update this brief for:
+
+1. Raw source collection.
+2. Detailed single-product notes that belong in `context/game_mechanics/`.
+3. Long current-meta tables that belong in dated snapshot files.
+4. Full copied community posts, raw deck text, or copyrighted source material.
+5. Minor wording changes that do not affect future routing, stable conclusions, or verification rules.
+
+Before updating, ask:
+
+> Does this change how a future agent should find context, classify a question, avoid hallucination, or decide what must be verified?
+
+If yes, update this brief. If no, put the material in the more specific context file.
+
 ## Core Thesis
 
 Mobile SLG is a multiplayer online war society built from 4X resources / expansion, big-map conflict, season or server cycles, alliance organization, and long-term status pursuit.
