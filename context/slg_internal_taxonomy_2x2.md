@@ -1,7 +1,8 @@
-# SLG Internal Taxonomy: Geo Constraint x Synchronous Battlefield
+# SLG Internal Taxonomy: Spatial Path Dependency x Synchronous Battlefield
 
 Status: working synthesis  
 Date: 2026-06-29  
+Latest refinement: 2026-06-30
 Origin: discussion after hands-on play of 三国志战略版, 三国谋定天下, and 无尽冬日
 
 ## Why This Note Exists
@@ -34,25 +35,34 @@ This note adds a second layer for explaining player experience and system load. 
 
 ## Revised Axes
 
-### Axis 1: Geo Constraint / Territory Continuity
+### Axis 1: Spatial Path Dependency / Geo Constraint
 
 This should not be called simply "4X depth." Almost every SLG has resources, expansion, development, and conquest.
 
 The better question is:
 
-> Does space create continuous strategic constraint?
+> Do map choices persistently change future strategic options?
+
+Connected land / paving is only one implementation. The deeper mechanism is spatial path dependency: the map becomes a network of routes, chokepoints, front lines, access rights, and timing windows.
 
 Low geo constraint:
 
 1. The map mainly carries coordinates, monsters, resource points, throne / wonder targets, and event objectives.
 2. Teleport, rally, shields, and event entry can weaken continuous front-line pressure.
-3. War is real, but the map is often more a container than a persistent chessboard.
+3. War is real, but the map is often more a container than a persistent path-dependent board.
 
 High geo constraint:
 
 1. Land, roads, passes, cities, borders, distance, access rights, and front lines directly determine strategic options.
 2. Occupation changes what can happen next.
 3. Alliance diplomacy and execution are inseparable from map position.
+4. Ordinary players gain value through route work: paving, repairing lines, blocking, flipping land, scouting, garrisoning, and timing objective access.
+
+Important clarification:
+
+The value of connected land is not just that it slows expansion or limits freedom. Its deeper role is to create front lines, route dependence, alliance labor, diplomacy with physical consequences, and season memory.
+
+If a product only uses connected land as a speed bump, it is friction. In 率土 Like, connected land matters because it is tied to passes, cities, resource states, alliance timing, diplomacy, season settlement, and buildcraft needs.
 
 ### Axis 2: Synchronous Battlefield Operation
 
@@ -66,24 +76,57 @@ Low synchronous operation:
 
 1. Victory mainly comes from growth, team construction, rally setup, timing, pre-positioning, and battle-report interpretation.
 2. There may be pressure to be online, but battle itself is mostly preconfigured or asynchronous.
+3. The decision style is closer to tactics / turn-based / pre-battle puzzle-solving: configure the right team, choose the right position, time the move, then interpret the result.
 
 High synchronous operation:
 
 1. Victory is strongly affected by free march, positioning, kiting, focus fire, garrison swaps, skill timing, pathing, and live command.
 2. The product feels closer to a real-time battlefield with SLG assets.
+3. The decision style is closer to RTS / MMO battlefield command: react, pull, focus, retreat, reinforce, and coordinate in live space.
+
+Important clarification:
+
+Low-sync SLG is not literally turn-based strategy, because it still has seasons, alliances, timers, diplomacy, and online pressure. High-sync SLG is not pure RTS, because it still has account growth, paid assets, alliance organization, and long-term resource loss.
+
+## Combat Logic And Monetization Implications
+
+The synchronous battlefield axis also changes the natural monetization surface.
+
+Low synchronous operation tends to monetize pre-battle assets and solution space:
+
+1. Generals / heroes / commanders.
+2. Tactics / skills.
+3. Team completeness and coexistence.
+4. Opening efficiency and low-loss clearing.
+5. Meta readiness across seasons and scripts.
+
+The player loss explanation often becomes: my team, tactics, order, counter, morale, or account box did not solve this situation.
+
+High synchronous operation tends to monetize battlefield endurance and command capability:
+
+1. Strong commanders / heroes.
+2. Troop volume and recovery.
+3. Healing, speedups, and war resources.
+4. Multiple marches / teams.
+5. Rally lead and garrison lead qualification.
+6. The ability to stay online and execute in live command windows.
+
+The player loss explanation becomes a blend: account power, troop depth, healing resources, live command, focus-fire discipline, positioning, and retreat timing.
+
+This does not mean low-sync is "only pay for cards" or high-sync is "skill over pay." It means the system gives players different languages for explaining advantage and different surfaces for monetization.
 
 ## The 2x2
 
 | | Low Synchronous Battlefield Operation | High Synchronous Battlefield Operation |
 | --- | --- | --- |
-| Low Geo Constraint / Low Territory Continuity | Castle War / COK Like | Real-Time Field War / ROK Like |
-| High Geo Constraint / High Territory Continuity | Seasonal Geo-Board / 率土 Like | Geo + Real-Time Fusion |
+| Low Spatial Path Dependency / Low Geo Constraint | Castle War / COK Like | Real-Time Field War / ROK Like |
+| High Spatial Path Dependency / High Geo Constraint | Seasonal Geo-Board / 率土 Like | Geo + Real-Time Fusion |
 
 ## Quadrants
 
 ### 1. Castle War / COK Like
 
-Position: low geo constraint + low synchronous battlefield operation.
+Position: low spatial path dependency + low synchronous battlefield operation.
 
 Representative products:
 
@@ -106,7 +149,7 @@ Research questions:
 
 ### 2. Seasonal Geo-Board / 率土 Like
 
-Position: high geo constraint + low synchronous battlefield operation.
+Position: high spatial path dependency + low synchronous battlefield operation.
 
 Representative products:
 
@@ -117,6 +160,14 @@ Representative products:
 Core read:
 
 率土 Like is a seasonal geo-board. The strategic object is not simply the army or account, but the map itself: land, routes, passes, cities, resource states, borders, fronts, and diplomacy.
+
+Connected land is a tool, not the whole point. It works because it turns the map into a path-dependent war network:
+
+1. Routes create front lines.
+2. Broken links delay future action even when existing land remains.
+3. Ordinary players can contribute through route labor and line repair.
+4. Alliance command becomes real work because routes, timing, and objective access must be coordinated.
+5. Diplomacy becomes spatial: borrowing paths, blocking access, sharing fronts, betraying at passes, and granting or denying entry to resource states.
 
 Combat is usually not a real-time micro battlefield. Much of the depth sits in opening route, team construction, troop loss control, timing, battle-report interpretation, alliance discipline, and season planning.
 
@@ -129,7 +180,7 @@ Research questions:
 
 ### 3. Real-Time Field War / ROK Like
 
-Position: medium-to-low geo constraint + high synchronous battlefield operation.
+Position: medium-to-low spatial path dependency + high synchronous battlefield operation.
 
 Representative products:
 
@@ -151,7 +202,7 @@ Research questions:
 
 ### 4. Geo + Real-Time Fusion
 
-Position: high geo constraint + high synchronous battlefield operation.
+Position: high spatial path dependency + high synchronous battlefield operation.
 
 Representative direction:
 
@@ -217,4 +268,4 @@ Merged judgment:
 
 ## One-Line Version
 
-COK Like is low-geo castle-number war; 率土 Like is high-geo seasonal board war; ROK Like is real-time field war with medium geo structure; fusion tries to stack high geo constraint and real-time battlefield operation, but that makes it the highest-risk zone rather than the automatic endgame.
+COK Like is low-path-dependency castle-number war; 率土 Like is high-path-dependency seasonal board war; ROK Like is real-time field war with medium geo structure; fusion tries to stack high spatial path dependency and real-time battlefield operation, but that makes it the highest-risk zone rather than the automatic endgame.

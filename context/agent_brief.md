@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-06-29
+Last updated: 2026-06-30
 
 ## Purpose
 
@@ -89,20 +89,21 @@ Use `context/slg_internal_taxonomy_2x2.md` when explaining how SLG subtypes feel
 
 Axes:
 
-1. Geo constraint / territory continuity:
+1. Spatial path dependency / geo constraint:
    - Low: map is mostly coordinate container and event target space.
    - High: land, roads, passes, distance, access, borders, and front lines change future strategic options.
+   - Connected land is an implementation detail; the deeper issue is whether map choices create persistent route dependence, alliance labor, and diplomacy with physical consequences.
 
 2. Synchronous battlefield operation:
-   - Low: growth, setup, pre-positioning, timing, and reports matter more than live micro.
-   - High: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command materially affect outcomes.
+   - Low: growth, setup, pre-positioning, timing, and reports matter more than live micro; the thinking is closer to tactics / turn-based / pre-battle puzzle-solving.
+   - High: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command materially affect outcomes; the thinking is closer to RTS / MMO battlefield command.
 
 Quadrants:
 
-1. Low geo + low sync: Castle War / COK Like.
-2. High geo + low sync: Seasonal Geo-Board / 率土 Like.
-3. Medium-low geo + high sync: Real-Time Field War / ROK Like.
-4. High geo + high sync: Geo + Real-Time Fusion.
+1. Low path dependency + low sync: Castle War / COK Like.
+2. High path dependency + low sync: Seasonal Geo-Board / 率土 Like.
+3. Medium-low path dependency + high sync: Real-Time Field War / ROK Like.
+4. High path dependency + high sync: Geo + Real-Time Fusion.
 
 Important caution:
 

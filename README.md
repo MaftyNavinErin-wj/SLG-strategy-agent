@@ -35,7 +35,7 @@ Key context notes:
 - `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
 - `context/slg_representative_games_research_findings.md`: current synthesis of research method conclusions and representative product findings.
 - `context/slg_representative_mechanics_overview.md`: first-pass mechanism comparison for representative SLG products, currently 无尽冬日, 率土之滨, 三国志战略版, and 三国谋定天下.
-- `context/slg_internal_taxonomy_2x2.md`: working 2x2 for SLG internal experience structure: geo constraint / territory continuity vs synchronous battlefield operation, with casualization as an overlay.
+- `context/slg_internal_taxonomy_2x2.md`: working 2x2 for SLG internal experience structure: spatial path dependency / geo constraint vs synchronous battlefield operation, with casualization as an overlay.
 - `context/game_mechanics/`: per-game public-source mechanism notes.
 - `sources/public_research/`: public source indexes and reliability notes.
 
