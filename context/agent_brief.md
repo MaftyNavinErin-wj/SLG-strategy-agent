@@ -14,10 +14,12 @@ The goal is not to make the agent "all-knowing." The goal is to route questions 
 Use the repo as layered working memory:
 
 1. Start from this brief.
-2. Route to the minimum relevant context files.
-3. Answer from stable distilled notes when the question is structural.
-4. Re-browse or verify when the question depends on live versions, current meta, current events, rankings, or patch state.
-5. State uncertainty when the source layer is incomplete or stale.
+2. Use `context/topic_index.md` when the question may touch multiple topics or when the best source is unclear.
+3. Use `context/decision_log.md` when the question depends on why a framework decision was made.
+4. Route to the minimum relevant context files.
+5. Answer from stable distilled notes when the question is structural.
+6. Re-browse or verify when the question depends on live versions, current meta, current events, rankings, or patch state.
+7. State uncertainty when the source layer is incomplete or stale.
 
 ## Maintenance Rules
 
@@ -35,16 +37,27 @@ Update this brief when:
 Do not update this brief for:
 
 1. Raw source collection.
-2. Detailed single-product notes that belong in `context/game_mechanics/`.
-3. Long current-meta tables that belong in dated snapshot files.
-4. Full copied community posts, raw deck text, or copyrighted source material.
-5. Minor wording changes that do not affect future routing, stable conclusions, or verification rules.
+2. Topic catalog changes that only belong in `context/topic_index.md`.
+3. Framework decision rationale that only belongs in `context/decision_log.md`.
+4. Detailed single-product notes that belong in `context/game_mechanics/`.
+5. Long current-meta tables that belong in dated snapshot files.
+6. Full copied community posts, raw deck text, or copyrighted source material.
+7. Minor wording changes that do not affect future routing, stable conclusions, or verification rules.
 
 Before updating, ask:
 
 > Does this change how a future agent should find context, classify a question, avoid hallucination, or decide what must be verified?
 
-If yes, update this brief. If no, put the material in the more specific context file.
+If yes, update this brief. If no, put the material in the more specific context file, topic index, or decision log.
+
+## Memory Architecture
+
+Use four layers:
+
+1. `context/agent_brief.md`: front desk. First-read orientation, routing rules, stable conclusions, volatile claims, and answer protocol.
+2. `context/topic_index.md`: library catalog. Lists topics and points to the right files.
+3. `context/decision_log.md`: judgment record. Captures framework decisions, status, and rationale.
+4. Topic notes and product notes: detailed synthesis and per-game mechanisms.
 
 ## Core Thesis
 

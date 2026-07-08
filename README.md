@@ -31,6 +31,8 @@ Raw decks and extracted full text should not be committed unless explicitly appr
 Key context notes:
 
 - `context/agent_brief.md`: first-read entry point for routing SLG questions across context files, stable conclusions, volatile claims, and answer protocols.
+- `context/topic_index.md`: catalog of major topics, when to use each note, and which files to read.
+- `context/decision_log.md`: record of major framework decisions, status, rationale, and implications.
 - `context/slg_deck_digest.md`: distilled thesis and teardown framework for the SLG source deck.
 - `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
 - `context/slg_representative_games_research_findings.md`: current synthesis of research method conclusions and representative product findings.
