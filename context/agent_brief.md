@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-06-30
+Last updated: 2026-07-08
 
 ## Purpose
 
@@ -94,9 +94,10 @@ Axes:
    - High: land, roads, passes, distance, access, borders, and front lines change future strategic options.
    - Connected land is an implementation detail; the deeper issue is whether map choices create persistent route dependence, alliance labor, and diplomacy with physical consequences.
 
-2. Synchronous battlefield operation:
+2. Unit-level synchronous battlefield operation:
    - Low: growth, setup, pre-positioning, timing, and reports matter more than live micro; the thinking is closer to tactics / turn-based / pre-battle puzzle-solving.
    - High: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command materially affect outcomes; the thinking is closer to RTS / MMO battlefield command.
+   - This axis does not measure all real-time coordination. 率土-like products can have heavy live coordination pressure through demolition timing, route repair, interception, pass opening, siege schedules, and front-line attendance.
 
 Quadrants:
 
@@ -104,6 +105,10 @@ Quadrants:
 2. High path dependency + low sync: Seasonal Geo-Board / 率土 Like.
 3. Medium-low path dependency + high sync: Real-Time Field War / ROK Like.
 4. High path dependency + high sync: Geo + Real-Time Fusion.
+
+Important caveat:
+
+The 2x2 is a spectrum / discussion plane, not four rigid boxes. ROK Like usually sits in the medium-low path-dependency region rather than pure low geo; fusion risk should be treated as a mechanism hypothesis to validate product by product.
 
 Important caution:
 
@@ -193,6 +198,23 @@ Use for:
 2. Pipeline reconstruction.
 3. Dynamic world / MMO / SLG / sandbox strategy questions.
 
+### If The User Asks About Grand Strategy / 4X x Mobile SLG
+
+Read:
+
+1. `context/grand_strategy_4x_live_service_tensions.md`
+2. `context/slg_deck_digest.md`
+3. `context/slg_internal_taxonomy_2x2.md` if the question involves mobile SLG subtypes.
+
+Use for:
+
+1. Why PC / console grand strategy and mobile SLG share vocabulary but have conflicting goals.
+2. Simulation integrity versus account assets, paid acceleration, and live-service cadence.
+3. Historical uniqueness versus collectible commanders / generals.
+4. Continuous campaign time versus online / offline appointment play.
+5. Player sovereignty versus alliance membership.
+6. Safer integration directions for strategy live service.
+
 ## Stable Conclusions
 
 These are stable enough for product and strategy discussion:
@@ -202,11 +224,12 @@ These are stable enough for product and strategy discussion:
 3. COK Like leans vertical power, castle / city growth, rally hierarchy, event calendars, and cross-server conflict.
 4. 率土 Like leans season geo-board, land route, pass / city control, alliance discipline, diplomacy, and horizontal buildcraft.
 5. ROK Like adds live battlefield expression through free march, open-field fighting, rally / garrison, and live command.
-6. Fusion SLG is high-risk because it tries to stack geo-board depth and real-time battlefield operation.
+6. Fusion SLG is a high-risk mechanism hypothesis because it tries to stack geo-board depth and unit-level real-time battlefield operation, but product outcomes also depend on IP, UA, live ops, timing, and execution quality.
 7. Casual COK Like is not just "SLG plus minigame." It is a user-entry and traffic-efficiency shift that preserves a high-LTV SLG backend.
 8. Alliance is the real retention structure across SLG, but the job of alliance differs by mountain.
 9. Non-whale contribution is a core design problem. Winning SLG must give ordinary players socially recognized jobs.
 10. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
+11. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 
 ## Volatile Claims That Require Verification
 
@@ -253,6 +276,7 @@ Before answering, classify the user question:
 5. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
 6. Player or officer interviews to validate alliance-operation conclusions.
 7. Market data and team capability mapping for BD / coverage prioritization.
+8. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
 
 ## Source Handling Rules
 

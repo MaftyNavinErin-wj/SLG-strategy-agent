@@ -2,7 +2,7 @@
 
 Status: working synthesis  
 Date: 2026-06-29  
-Latest refinement: 2026-06-30
+Latest refinement: 2026-07-06
 Origin: discussion after hands-on play of 三国志战略版, 三国谋定天下, and 无尽冬日
 
 ## Why This Note Exists
@@ -32,6 +32,10 @@ This 2x2 does not replace the existing mountain taxonomy:
 The existing taxonomy is still the primary product-lineage and strategy frame.
 
 This note adds a second layer for explaining player experience and system load. It is best used as a discussion page or cover frame, while detailed analysis should still use multi-dimensional profiles: map model, combat model, alliance structure, season / server loop, monetization, and user-entry model.
+
+Important caveat:
+
+The 2x2 is a continuous plane, not four mutually exclusive boxes. Many products sit between regions. ROK Like, for example, is usually medium-to-low on spatial path dependency rather than pure low-geo; fusion products are best understood as attempts to move up the geo axis while preserving high battlefield synchronization.
 
 ## Revised Axes
 
@@ -64,13 +68,17 @@ The value of connected land is not just that it slows expansion or limits freedo
 
 If a product only uses connected land as a speed bump, it is friction. In 率土 Like, connected land matters because it is tied to passes, cities, resource states, alliance timing, diplomacy, season settlement, and buildcraft needs.
 
-### Axis 2: Synchronous Battlefield Operation
+### Axis 2: Unit-Level Synchronous Battlefield Operation
 
 This should not mix real-time pressure, social discipline, and online burden.
 
 The better question is:
 
 > Does battle outcome materially depend on live battlefield operation?
+
+This axis measures unit-level or micro-level battlefield operation: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command.
+
+It does not measure all forms of real-time social coordination. 率土-like products can carry heavy live coordination pressure through demolition timing, route repair, interception, pass opening, siege schedules, and front-line attendance, even though they remain low on unit-level micro.
 
 Low synchronous operation:
 
@@ -115,12 +123,19 @@ The player loss explanation becomes a blend: account power, troop depth, healing
 
 This does not mean low-sync is "only pay for cards" or high-sync is "skill over pay." It means the system gives players different languages for explaining advantage and different surfaces for monetization.
 
-## The 2x2
+## The 2x2 As A Spectrum
 
 | | Low Synchronous Battlefield Operation | High Synchronous Battlefield Operation |
 | --- | --- | --- |
 | Low Spatial Path Dependency / Low Geo Constraint | Castle War / COK Like | Real-Time Field War / ROK Like |
 | High Spatial Path Dependency / High Geo Constraint | Seasonal Geo-Board / 率土 Like | Geo + Real-Time Fusion |
+
+Read the cells as regions:
+
+1. COK Like is the low-path / low-micro anchor.
+2. 率土 Like is the high-path / low-micro anchor.
+3. ROK Like usually sits between low and medium path dependency, but high on unit-level micro.
+4. Fusion is a hypothesis space for products that try to combine high path dependency with high unit-level micro.
 
 ## Quadrants
 
@@ -214,7 +229,11 @@ Core read:
 
 Fusion is not automatically the final form. It tries to stack 率土-style geo-board depth and ROK-style real-time battlefield expression, but this also stacks cost.
 
-Main risks:
+Mechanism-risk hypothesis:
+
+Fusion is a high-risk design zone because it may stack two already-heavy burdens: geo-board slow variables and real-time battlefield fast variables. This should be treated as a mechanism hypothesis, not as a complete explanation for any single product's commercial outcome; IP, UA, live ops, timing, production quality, and market context can all dominate the result.
+
+Main risks to test:
 
 1. Understanding cost becomes too high.
 2. Online and operation pressure become too high.
@@ -261,11 +280,13 @@ Two independent reviews were run on this logic:
 Merged judgment:
 
 1. Use the 2x2 as a clear discussion frame.
-2. Do not use it as the only classification system.
-3. Preserve COK Like vs 率土 Like as the main product-structure split.
-4. Treat ROK Like and fusion as battlefield-expression and map-model variants.
-5. Treat casualization as a separate overlay on top of the backend SLG model.
+2. Treat the 2x2 as a spectrum, not four rigid boxes.
+3. Do not use it as the only classification system.
+4. Preserve COK Like vs 率土 Like as the main product-structure split.
+5. Treat ROK Like and fusion as battlefield-expression and map-model variants.
+6. Treat casualization as a separate overlay on top of the backend SLG model.
+7. Treat fusion risk as a hypothesis to validate product by product, not as an automatic explanation for success or failure.
 
 ## One-Line Version
 
-COK Like is low-path-dependency castle-number war; 率土 Like is high-path-dependency seasonal board war; ROK Like is real-time field war with medium geo structure; fusion tries to stack high spatial path dependency and real-time battlefield operation, but that makes it the highest-risk zone rather than the automatic endgame.
+COK Like is low-path-dependency castle-number war; 率土 Like is high-path-dependency seasonal board war; ROK Like is real-time field war with medium geo structure; fusion tries to stack high spatial path dependency and unit-level real-time battlefield operation, but that makes it a high-risk design hypothesis rather than the automatic endgame.
