@@ -209,6 +209,7 @@ Takeaway: 无尽冬日 refreshes through event/state/power cadence. 率土 and �
 4. Battle reports are a design surface. If players can debate why they won/lost, the community becomes part of the meta engine.
 5. Alliance leaders are unpaid live-ops staff. Systems that help or hurt them directly affect retention.
 6. The strongest SLG products make non-whales useful. They may not beat whales, but they must have socially recognized jobs.
+7. Ordinary-player value usually comes from either attrition value or organization value. COK / ROK-like systems lean toward body / attrition contribution; Lutu-like systems lean toward logistics / organization contribution created by geo constraint and season reset.
 
 ## Agent Answering Rules
 

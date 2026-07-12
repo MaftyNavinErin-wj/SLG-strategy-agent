@@ -1,7 +1,7 @@
 # Topic Index
 
 Status: living index  
-Last updated: 2026-07-08
+Last updated: 2026-07-12
 
 ## Purpose
 
@@ -38,22 +38,24 @@ One-line read:
 
 SLG is a big-map war society, not just a strategy skin. The key split is product structure, not theme.
 
-## Internal 2x2: Spatial Path Dependency x Unit-Level Synchronous Battlefield
+## Internal 2x2: Geo Constraint x High-Power Constraint
 
 Use when asking:
 
-1. Why COK Like, 率土 Like, ROK Like, and fusion feel different.
-2. How movement / collision logic changes map structure, alliance roles, and monetization.
-3. Why fusion is hard.
+1. Why COK Like, Lutu Like, ROK Like, and fusion feel different.
+2. How map structure, reset rules, troop / body attrition, alliance roles, and monetization fit together.
+3. Why high-power constraint determines ordinary-player value.
+4. Why real-time battlefield operation is important but not the root taxonomy axis.
+5. Why fusion is hard.
 
 Read:
 
 1. `context/slg_internal_taxonomy_2x2.md`
-2. `context/decision_log.md` entries on spectrum, casualization overlay, and fusion risk
+2. `context/decision_log.md` entries on spectrum, casualization overlay, and the July 2026 high-power constraint reframing
 
 One-line read:
 
-The 2x2 is a spectrum, not four rigid boxes. It explains where a product puts war friction: target-point asset collision, path-dependent geo-board, real-time unit battlefield, or a risky stack of geo-board plus real-time battlefield.
+The 2x2 is a spectrum, not four rigid boxes. COK / ROK-like games constrain high-power players mainly through attrition and economic sinks, so ordinary players provide body value; Lutu-like games constrain high-power players through geo dependency, season reset, and organization, so ordinary players provide logistics / organization value. Real-time battlefield operation is a secondary modifier.
 
 ## Representative Product Mechanics
 

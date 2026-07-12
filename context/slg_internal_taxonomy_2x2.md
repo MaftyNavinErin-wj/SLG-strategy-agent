@@ -1,263 +1,268 @@
-# SLG Internal Taxonomy: Spatial Path Dependency x Synchronous Battlefield
+# SLG Internal Taxonomy: Geo Constraint x High-Power Constraint
 
-Status: working synthesis  
+Status: accepted working synthesis  
 Date: 2026-06-29  
-Latest refinement: 2026-07-06
-Origin: discussion after hands-on play of 三国志战略版, 三国谋定天下, and 无尽冬日
+Latest refinement: 2026-07-12
 
 ## Why This Note Exists
 
-The hands-on read is that modern SLG often feels close to MMO in its social layer:
+The earlier internal 2x2 used:
 
-1. Alliance / guild identity is the retention unit.
-2. Officers, commanders, diplomats, and heavy spenders shape organizational outcomes.
-3. Ordinary players gain value through attendance, execution, reinforcement, logistics, and role compliance.
-4. Long-term memory comes from war, hierarchy, conflict, betrayal, honor, and server / alliance identity.
+1. Spatial path dependency / geo constraint.
+2. Unit-level synchronous battlefield operation.
 
-But the purpose of this note is not to compare SLG with MMO. It is to use that intuition to split SLG internally.
+That frame was useful for explaining why COK Like, Lutu Like, ROK Like, and fusion products feel different. The July 2026 refinement is that battlefield real-time operation is not the deepest genre-defining axis. It is better treated as a secondary modifier.
 
-The key question:
+The deeper question is:
 
-> Within SLG, what kind of war society is the product building: castle-number war, seasonal geo-board war, real-time field war, or a high-risk fusion of geo-board and real-time battlefield?
+> How does the system constrain high-power players, and therefore how does it give ordinary players value?
 
-## Relationship To The Existing Derrick / Mountain Frame
+This is the more genre-defining layer because it links map design, season reset, troop attrition, alliance roles, monetization, and long-term server ecology into one mechanism.
 
-This 2x2 does not replace the existing mountain taxonomy:
+## Core Thesis
 
-1. COK Like.
-2. 率土 Like.
-3. ROK / fusion.
-4. Casual COK Like.
+High-power constraint is the mirror image of ordinary-player value.
 
-The existing taxonomy is still the primary product-lineage and strategy frame.
+In SLG, high spenders / high-power accounts must feel meaningfully strong, but they cannot be allowed to freely project that strength everywhere with no cost. If they can, ordinary players become background objects rather than participants.
 
-This note adds a second layer for explaining player experience and system load. It is best used as a discussion page or cover frame, while detailed analysis should still use multi-dimensional profiles: map model, combat model, alliance structure, season / server loop, monetization, and user-entry model.
+Main ways the genre solves this:
 
-Important caveat:
+1. Constrain high-power accounts through attrition and economic sinks.
+2. Constrain high-power accounts through geo dependency, season reset, and organization.
 
-The 2x2 is a continuous plane, not four mutually exclusive boxes. Many products sit between regions. ROK Like, for example, is usually medium-to-low on spatial path dependency rather than pure low-geo; fusion products are best understood as attempts to move up the geo axis while preserving high battlefield synchronization.
+This produces two dominant product paradigms:
+
+1. COK / ROK-like: ordinary players mainly provide attrition value.
+2. Lutu-like: ordinary players mainly provide organization value.
+
+## Relationship To The Derrick / Mountain Frame
+
+The Derrick mountain material already contains the ingredients:
+
+1. COK Like vs Lutu Like as the main product split.
+2. Reset rules differ by mountain.
+3. COK Like solves numerical inflation through cross-server matching and live-ops events.
+4. Lutu Like uses path-style maps, land / route / pass structures, season reset, and alliance discipline.
+5. Social structure differs: COK has "head and body"; Lutu has diverse division of labor and strategy collaboration.
+6. Fusion products struggle when real-time battle compresses Lutu-like pre-war planning and officer / diplomat value.
+
+What the deck does not fully make explicit is the underlying mechanism:
+
+> Different SLG mountains are different answers to the question of how high-power advantage is released, constrained, and monetized.
+
+This note makes that mechanism explicit.
 
 ## Revised Axes
 
 ### Axis 1: Spatial Path Dependency / Geo Constraint
 
-This should not be called simply "4X depth." Almost every SLG has resources, expansion, development, and conquest.
-
-The better question is:
+The question:
 
 > Do map choices persistently change future strategic options?
-
-Connected land / paving is only one implementation. The deeper mechanism is spatial path dependency: the map becomes a network of routes, chokepoints, front lines, access rights, and timing windows.
 
 Low geo constraint:
 
 1. The map mainly carries coordinates, monsters, resource points, throne / wonder targets, and event objectives.
-2. Teleport, rally, shields, and event entry can weaken continuous front-line pressure.
+2. Teleport, rally, shields, event entry, or loose objective access weaken continuous front-line pressure.
 3. War is real, but the map is often more a container than a persistent path-dependent board.
+4. High-power players can often project power more freely across the map or event space.
 
 High geo constraint:
 
-1. Land, roads, passes, cities, borders, distance, access rights, and front lines directly determine strategic options.
+1. Land, roads, passes, cities, borders, distance, access rights, and front lines determine strategic options.
 2. Occupation changes what can happen next.
 3. Alliance diplomacy and execution are inseparable from map position.
-4. Ordinary players gain value through route work: paving, repairing lines, blocking, flipping land, scouting, garrisoning, and timing objective access.
+4. High-power players need a route network, front-line access, logistics, and alliance execution before their strength can matter.
+5. Ordinary players gain value through route work: paving, repairing lines, blocking, flipping land, scouting, garrisoning, demolition, and timing objective access.
 
-Important clarification:
+Connected land is only one implementation. The deeper mechanism is that the map becomes a network of routes, chokepoints, front lines, access rights, and timing windows.
 
-The value of connected land is not just that it slows expansion or limits freedom. Its deeper role is to create front lines, route dependence, alliance labor, diplomacy with physical consequences, and season memory.
+### Axis 2: High-Power Constraint Mode
 
-If a product only uses connected land as a speed bump, it is friction. In 率土 Like, connected land matters because it is tied to passes, cities, resource states, alliance timing, diplomacy, season settlement, and buildcraft needs.
+The question:
 
-### Axis 2: Unit-Level Synchronous Battlefield Operation
+> What prevents strong accounts from becoming freely reusable, globally projectable, low-cost domination assets?
 
-This should not mix real-time pressure, social discipline, and online burden.
+This axis is driven by two linked design choices:
 
-The better question is:
+1. Season reset strength.
+2. Unit / body attrition strength.
 
-> Does battle outcome materially depend on live battlefield operation?
+Two poles:
 
-This axis measures unit-level or micro-level battlefield operation: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command.
+#### Attrition / Economic Constraint
 
-It does not measure all forms of real-time social coordination. 率土-like products can carry heavy live coordination pressure through demolition timing, route repair, interception, pass opening, siege schedules, and front-line attendance, even though they remain low on unit-level micro.
+High-power advantage is constrained by troop loss, healing, training, resources, speedups, rally / garrison cost, shield / teleport decisions, and long-term economic sinks.
 
-Low synchronous operation:
+This fits weak-reset or long-account games because accumulated power otherwise becomes irreversible.
 
-1. Victory mainly comes from growth, team construction, rally setup, timing, pre-positioning, and battle-report interpretation.
-2. There may be pressure to be online, but battle itself is mostly preconfigured or asynchronous.
-3. The decision style is closer to tactics / turn-based / pre-battle puzzle-solving: configure the right team, choose the right position, time the move, then interpret the result.
+Player value pattern:
 
-High synchronous operation:
+1. High-power players lead rallies, garrisons, key attacks, and server status.
+2. Ordinary players provide troop body, attendance, reinforcement, resource depth, event participation, and recovery throughput.
+3. Their value is real, but often substitutable: they are the "body" behind the "head."
 
-1. Victory is strongly affected by free march, positioning, kiting, focus fire, garrison swaps, skill timing, pathing, and live command.
-2. The product feels closer to a real-time battlefield with SLG assets.
-3. The decision style is closer to RTS / MMO battlefield command: react, pull, focus, retreat, reinforce, and coordinate in live space.
+Commercial pattern:
 
-Important clarification:
+1. War consumes the player's body.
+2. Spending restores, accelerates, protects, and deepens that body.
+3. Long-term assets are preserved, so the system needs continuous sinks and matching to prevent permanent server lock.
 
-Low-sync SLG is not literally turn-based strategy, because it still has seasons, alliances, timers, diplomacy, and online pressure. High-sync SLG is not pure RTS, because it still has account growth, paid assets, alliance organization, and long-term resource loss.
+#### Reset / Organization Constraint
 
-## Combat Logic And Monetization Implications
+High-power advantage is constrained by season reset, map reset, geo access, route dependency, alliance logistics, officer planning, and time-limited campaign windows.
 
-The synchronous battlefield axis also changes the natural monetization surface.
+This fits Lutu-like games because the map order is periodically reset, while paid / account assets such as cards, generals, tactics, and buildcraft knowledge retain value.
 
-Low synchronous operation tends to monetize pre-battle assets and solution space:
+Player value pattern:
 
-1. Generals / heroes / commanders.
-2. Tactics / skills.
-3. Team completeness and coexistence.
-4. Opening efficiency and low-loss clearing.
-5. Meta readiness across seasons and scripts.
+1. High-power players are breakthrough and hard-point assets.
+2. They cannot single-handedly create routes, hold every front, repair lines, scout counters, execute timings, or maintain alliance logistics.
+3. Ordinary players provide organization value: paving, line repair, flipping, garrisoning, demolition, scouting, timing, diplomacy execution, profession / logistics roles, and front-line attendance.
 
-The player loss explanation often becomes: my team, tactics, order, counter, morale, or account box did not solve this situation.
+Commercial pattern:
 
-High synchronous operation tends to monetize battlefield endurance and command capability:
+1. War does not primarily destroy the paid card / team as a long-term asset.
+2. Spending is valuable because a strong deck can repeatedly convert into season-critical organization value.
+3. The pressure is not "each fight permanently ruins me"; it is "the season window and alliance obligation make early and reliable strength valuable."
 
-1. Strong commanders / heroes.
-2. Troop volume and recovery.
-3. Healing, speedups, and war resources.
-4. Multiple marches / teams.
-5. Rally lead and garrison lead qualification.
-6. The ability to stay online and execute in live command windows.
+## The 2x2
 
-The player loss explanation becomes a blend: account power, troop depth, healing resources, live command, focus-fire discipline, positioning, and retreat timing.
-
-This does not mean low-sync is "only pay for cards" or high-sync is "skill over pay." It means the system gives players different languages for explaining advantage and different surfaces for monetization.
-
-## The 2x2 As A Spectrum
-
-| | Low Synchronous Battlefield Operation | High Synchronous Battlefield Operation |
+| | Attrition / Economic Constraint | Reset / Organization Constraint |
 | --- | --- | --- |
-| Low Spatial Path Dependency / Low Geo Constraint | Castle War / COK Like | Real-Time Field War / ROK Like |
-| High Spatial Path Dependency / High Geo Constraint | Seasonal Geo-Board / 率土 Like | Geo + Real-Time Fusion |
+| Low Geo Constraint | COK / ROK-like default: long-account war society where ordinary players provide body / attrition value | Risk zone: strong accounts can project power too freely unless constrained by heavy matchmaking, instances, or artificial limits |
+| High Geo Constraint | Over-constrained hybrid: both body attrition and organization burden are high; powerful but hard to balance | Lutu-like default: seasonal geo-board where ordinary players provide organization / logistics value |
 
-Read the cells as regions:
+Read this as a spectrum, not four rigid boxes.
 
-1. COK Like is the low-path / low-micro anchor.
-2. 率土 Like is the high-path / low-micro anchor.
-3. ROK Like usually sits between low and medium path dependency, but high on unit-level micro.
-4. Fusion is a hypothesis space for products that try to combine high path dependency with high unit-level micro.
+The genre has converged around two stable anchors:
 
-## Quadrants
+1. Weak-to-medium geo + strong attrition / weak reset: COK / ROK-like.
+2. Strong geo + strong reset / lower body attrition: Lutu-like.
 
-### 1. Castle War / COK Like
+The other two regions are possible but difficult:
 
-Position: low spatial path dependency + low synchronous battlefield operation.
+1. Low geo + low attrition / reset constraint risks high-power players becoming too free and ordinary players losing value.
+2. High geo + high attrition risks making high-power players afraid to use paid assets and ordinary players feel both overworked and consumed.
 
-Representative products:
+## Why Reset And Attrition Are Linked
 
-1. Clash of Kings.
-2. Lords Mobile / 王国纪元.
-3. King of Avalon.
+Weak-reset games preserve city, heroes, tech, troops, VIP, gear, and account status for long periods. Without attrition and economic sinks, high-power advantage can become permanent and server ecology can die.
 
-Core read:
+Therefore COK / ROK-like games need troop loss, healing, training, speedups, resources, shields, teleport decisions, event cadence, and cross-server matching.
 
-COK Like is castle-number war. It is built around city / castle growth, resources, troops, heroes, tech, speedups, alliance rallies, shields, teleport, throne / wonder targets, and cross-server event loops.
+Strong-reset games periodically reset world order: land, map control, resource state, front lines, season settlement, and often active / grind-linked resources. Paid assets and account identity usually persist.
 
-The map matters, but usually as a coordinate war container rather than a continuous geo-board like 率土.
+Therefore Lutu-like games need strong cards / teams to remain useful across a season. If the system also heavily destroyed strong teams through body attrition, paid assets would feel unreliable and alliance war would become too conservative.
 
-Research questions:
+Short version:
 
-1. How do throne / wonder, cross-server war, and alliance rally events create long-term war goals?
-2. How do rally lead, rally joiner, whale, and ordinary member roles divide power?
-3. How do shield, teleport, scout, rally, and garrison mechanics manage loss and online pressure?
-4. How does vertical power monetization translate into alliance hierarchy?
+1. Weak reset requires attrition to stop high-power snowball.
+2. Strong reset can use map / season / organization to stop high-power free projection.
+3. Lutu-like games keep strong teams relatively reusable because the campaign window needs those teams to repeatedly create strategic value.
 
-### 2. Seasonal Geo-Board / 率土 Like
+## Why Connected Land Matters
 
-Position: high spatial path dependency + low synchronous battlefield operation.
+Connected land is not valuable because "paving is fun." Paving is often crude, repetitive, and not very simulation-realistic.
 
-Representative products:
+Its product function is that it prevents high-power players from projecting strength alone.
 
-1. 率土之滨.
-2. 三国志战略版.
-3. 三国谋定天下.
+In a free coordinate map with low attrition and arbitrary attack access, a strong player can become a reusable strike platform. Ordinary players have little reason to matter beyond being targets or fillers.
 
-Core read:
+In a connected-land / path-dependent map:
 
-率土 Like is a seasonal geo-board. The strategic object is not simply the army or account, but the map itself: land, routes, passes, cities, resource states, borders, fronts, and diplomacy.
+1. A strong player cannot fight on the right front unless the alliance creates access.
+2. Breakthroughs need route work, timing, scouting, demolition, garrisons, and follow-up.
+3. Low- and mid-power players can create value without beating high-power players head-on.
+4. Alliance command becomes real work because power must move through an organization network.
 
-Connected land is a tool, not the whole point. It works because it turns the map into a path-dependent war network:
+Lutu-like balance is not that ordinary players beat whales. It is that ordinary players help determine where and when whale power can be converted into map control.
 
-1. Routes create front lines.
-2. Broken links delay future action even when existing land remains.
-3. Ordinary players can contribute through route labor and line repair.
-4. Alliance command becomes real work because routes, timing, and objective access must be coordinated.
-5. Diplomacy becomes spatial: borrowing paths, blocking access, sharing fronts, betraying at passes, and granting or denying entry to resource states.
+## Two Ordinary-Player Value Models
 
-Combat is usually not a real-time micro battlefield. Much of the depth sits in opening route, team construction, troop loss control, timing, battle-report interpretation, alliance discipline, and season planning.
+### 1. Attrition Value
 
-Research questions:
+Typical in COK / ROK-like systems.
 
-1. How do land, paving, passes, cities, and resource-state access determine season fate?
-2. How do alliance discipline, diplomacy, betrayal, and officer execution become system power?
-3. How do generals, tactics, battle reports, and season scripts maintain long-term knowledge depth?
-4. How can a product reduce paving / execution burden without destroying the geo-board identity?
+Ordinary players provide:
 
-### 3. Real-Time Field War / ROK Like
+1. Troop body.
+2. Rally filling.
+3. Reinforcement.
+4. Resource depth.
+5. Event attendance.
+6. Healing / training throughput.
+7. Distributed pressure and sacrifice.
 
-Position: medium-to-low spatial path dependency + high synchronous battlefield operation.
+This model is easier to monetize through recovery, acceleration, and long-term vertical power. The risk is that ordinary players become substitutable and social value concentrates around spenders / rally leads.
 
-Representative products:
+### 2. Organization Value
 
-1. Rise of Kingdoms / 万国觉醒.
-2. Call of Dragons.
+Typical in Lutu-like systems.
 
-Core read:
+Ordinary players provide:
 
-ROK Like is real-time field war. It is not zero-geo: passes, holy sites, alliance territory, KvK maps, flags, forts, rallies, and garrisons all matter. But it is not a 率土-style continuous land-connection board.
+1. Paving and route extension.
+2. Line repair.
+3. Land flipping.
+4. Scouting and counter-discovery.
+5. Garrison / blocking.
+6. Demolition.
+7. Timing execution.
+8. Diplomacy / alliance instruction execution.
+9. Profession or logistics roles.
 
-Its differentiator is live battlefield operation: free march, open-field fighting, focus fire, retreat, garrison swap, rally timing, troop positioning, and live command.
+This model creates deeper alliance society and stronger long-term group identity. The risk is high execution burden, officer workload, social pressure, and new-player comprehension cost.
 
-Research questions:
+## ROK And Real-Time Battlefield Operation
 
-1. How do free march, open-field pull, focus fire, and garrison switching create battlefield excitement?
-2. How do KvK objectives provide enough geo structure without becoming a 率土-style land board?
-3. How does the product manage mobile control burden, online time, network pressure, and command complexity?
-4. How are open-field fighters, rally leads, garrison leads, spenders, and ordinary participants segmented?
+Unit-level real-time operation remains important, but it is a modifier rather than the root taxonomy.
 
-### 4. Geo + Real-Time Fusion
+ROK's real-time battlefield changes:
 
-Position: high spatial path dependency + high synchronous battlefield operation.
+1. Battle expression.
+2. Command feel.
+3. Online pressure.
+4. Focus-fire and retreat discipline.
+5. Rally / garrison timing.
+6. The visibility and excitement of war.
 
-Representative direction:
+But it does not fully redefine the underlying social structure in the way connected geo-board design does.
 
-1. 重返帝国 is the cleaner example to study.
-2. Call of Dragons can be used as a ROK-side comparison.
-3. 指尖无双 should be treated carefully; it may be better studied as a lighter fusion / casualized SLG case rather than a strong representative of this quadrant.
+ROK is better understood as:
 
-Core read:
+> A COK-side long-account / attrition-based war society with stronger real-time battlefield expression and medium geo structure.
 
-Fusion is not automatically the final form. It tries to stack 率土-style geo-board depth and ROK-style real-time battlefield expression, but this also stacks cost.
+This is why ROK can feel dramatically different in combat while still sharing much of the COK-side logic: long-term account preservation, troop / healing / speedup pressure, rally and garrison hierarchy, migration / KvK ecology, and ordinary-player body value.
 
-Mechanism-risk hypothesis:
+## Fusion Risk Reframed
 
-Fusion is a high-risk design zone because it may stack two already-heavy burdens: geo-board slow variables and real-time battlefield fast variables. This should be treated as a mechanism hypothesis, not as a complete explanation for any single product's commercial outcome; IP, UA, live ops, timing, production quality, and market context can all dominate the result.
+The old framework described fusion risk as stacking high geo-board depth and high synchronous battlefield operation.
 
-Main risks to test:
+That remains true, but the deeper risk is:
 
-1. Understanding cost becomes too high.
-2. Online and operation pressure become too high.
-3. Real-time battlefield may compress slow-variable roles such as diplomacy, paving, logistics, intelligence, and officer planning.
-4. Payment pressure may be amplified if both strategic board and battlefield execution reward high account power.
+> Fusion may accidentally stack organization burden, body attrition, real-time online pressure, and paid-asset pressure at the same time.
 
-Research questions:
+If a product wants both ordinary-player organization value and ordinary-player attrition value, it must manage a hard compromise:
 
-1. Can the product preserve slow geo strategy while adding fast battlefield agency?
-2. Does live combat reduce or increase the value of non-whale alliance roles?
-3. Does the system help commanders and officers, or overload them?
-4. Can terrain, troop counters, timing, and organization dilute paid power, or do they magnify it?
+1. If body attrition is too high, high-power players may feel punished for using paid assets.
+2. If organization burden is too high, ordinary players may feel like unpaid labor.
+3. If real-time pressure is too high, officer / diplomat / planner value may be compressed by online headcount and immediate execution.
+4. If paid power is too reusable and too mobile, ordinary players lose strategic agency.
 
-## The Casualization Overlay
+Mature products usually choose one main constraint mechanism and use the other as a secondary layer.
 
-Casual COK Like should not be forced into a separate 2x2 quadrant.
+## Casualization Overlay
 
-It is better treated as an overlay:
+Casual COK Like should not be forced into a separate quadrant.
+
+It is better treated as:
 
 > COK-like or SLG backend + lighter front-end entry + delayed complexity exposure + better UA fit.
 
 Representative products:
 
-1. 无尽冬日 / Whiteout Survival.
+1. Whiteout Survival.
 2. Last War: Survival.
 3. Kingshot.
 
@@ -266,27 +271,41 @@ What changes:
 1. The first-session hook becomes survival, puzzle, shooting, running, settlement management, or another legible light loop.
 2. SLG complexity is delayed rather than removed.
 3. Alliance obligation and high-LTV backend systems arrive after broader users have entered.
-4. The product should be evaluated as product design plus publishing / UA capability.
+4. The underlying high-power constraint is usually still closer to COK-like attrition / economic constraint than to Lutu-like organization constraint.
 
-This is why 无尽冬日 can sit near COK Like in the 2x2 while still being strategically different from classic COK Like.
+This is why casual COK-like products can be strategically different from classic COK Like in user acquisition and onboarding while remaining close to COK-like backend war society.
 
-## Reviewer Conclusions
+## Design Opportunity: Beyond Crude Connected Land
 
-Two independent reviews were run on this logic:
+Connected land is a product-effective but inelegant implementation of geo constraint.
 
-1. A standalone Codex reviewer broadly supported the 2x2, but recommended renaming the axes and adding casualization as a third axis.
-2. A Claude Opus reviewer was more conservative: it argued the 2x2 is useful for communication, but should not replace the repo's primary mountain taxonomy or the six-layer teardown framework.
+A more simulation-legible direction is supply-line design:
 
-Merged judgment:
+1. Cities, roads, passes, camps, and forts become supply nodes.
+2. Distance from supply affects march speed, recovery, morale, troop replenishment, or combat efficiency.
+3. Ordinary players can build, protect, scout, raid, repair, or cut supply networks.
+4. High-power players remain breakthrough assets, but deep invasion requires organization support.
+5. Terrain, rivers, mountains, passes, and roads become meaningful without requiring tile-by-tile paving.
 
-1. Use the 2x2 as a clear discussion frame.
-2. Treat the 2x2 as a spectrum, not four rigid boxes.
-3. Do not use it as the only classification system.
-4. Preserve COK Like vs 率土 Like as the main product-structure split.
-5. Treat ROK Like and fusion as battlefield-expression and map-model variants.
-6. Treat casualization as a separate overlay on top of the backend SLG model.
-7. Treat fusion risk as a hypothesis to validate product by product, not as an automatic explanation for success or failure.
+The design challenge is readability. Connected land is crude, but everyone understands "we cannot hit there until we connect there." A supply system must preserve that clarity while adding simulation depth.
+
+The opportunity is not to copy PC grand strategy directly. It is to find a more believable geo-constraint system that keeps the key SLG function:
+
+> Strength must pass through an organization network before it becomes map control.
+
+## Implications For Future Analysis
+
+When analyzing an SLG, ask in this order:
+
+1. What constrains high-power players?
+2. What value does the ordinary player provide: attrition, organization, or both?
+3. What does the system reset?
+4. What does the system permanently preserve?
+5. What does war primarily consume: troops, resources, time, map position, coordination, or social trust?
+6. How freely can power be projected across the map?
+7. Does real-time operation amplify or dilute the chosen high-power constraint?
+8. Does monetization match the resource being consumed?
 
 ## One-Line Version
 
-COK Like is low-path-dependency castle-number war; 率土 Like is high-path-dependency seasonal board war; ROK Like is real-time field war with medium geo structure; fusion tries to stack high spatial path dependency and unit-level real-time battlefield operation, but that makes it a high-risk design hypothesis rather than the automatic endgame.
+COK / ROK-like games constrain high-power players mainly through attrition and economic sinks, so ordinary players provide body value; Lutu-like games constrain high-power players through geo dependency, season reset, and organization, so ordinary players provide logistics / organization value; real-time RTS expression is a powerful modifier, not the deepest taxonomy axis.

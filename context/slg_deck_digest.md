@@ -145,6 +145,17 @@ Questions:
 
 ## Key Strategic Reads
 
+### High-Power Constraint As The Deeper Split
+
+The deck points to this through reset rules, map model, COK "head and body" social structure, Lutu-like division of labor, and fusion social-retention challenges, but it does not fully name the underlying mechanism.
+
+Current workspace read:
+
+1. The genre-defining question is how the system constrains high-power players and therefore gives ordinary players value.
+2. COK / ROK-like systems mainly constrain high-power players through troop / body attrition, economic sinks, matching, and event cadence. Ordinary players mainly provide attrition / body value.
+3. Lutu-like systems mainly constrain high-power players through geo dependency, season reset, route access, and organization. Ordinary players mainly provide logistics / organization value.
+4. Real-time battlefield operation is a powerful expression and burden modifier, especially for ROK and fusion, but it is not the root taxonomy axis.
+
 ### Casual COK Like Growth
 
 Casual COK Like growth is not just "SLG plus minigame." It is a user-entry and traffic-efficiency shift:
@@ -215,4 +226,3 @@ Focus:
 1. Free march / real-time map expression.
 2. Whether strategy depth helps or damages social organization.
 3. The sustainability of economic and social loops.
-

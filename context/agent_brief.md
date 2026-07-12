@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-08
+Last updated: 2026-07-12
 
 ## Purpose
 
@@ -107,25 +107,29 @@ Axes:
    - High: land, roads, passes, distance, access, borders, and front lines change future strategic options.
    - Connected land is an implementation detail; the deeper issue is whether map choices create persistent route dependence, alliance labor, and diplomacy with physical consequences.
 
-2. Unit-level synchronous battlefield operation:
-   - Low: growth, setup, pre-positioning, timing, and reports matter more than live micro; the thinking is closer to tactics / turn-based / pre-battle puzzle-solving.
-   - High: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command materially affect outcomes; the thinking is closer to RTS / MMO battlefield command.
-   - This axis does not measure all real-time coordination. 率土-like products can have heavy live coordination pressure through demolition timing, route repair, interception, pass opening, siege schedules, and front-line attendance.
+2. High-power constraint mode:
+   - Attrition / economic constraint: high-power advantage is constrained by troop loss, healing, training, resources, speedups, shield / teleport choices, event cadence, and matching.
+   - Reset / organization constraint: high-power advantage is constrained by season reset, map reset, geo access, route dependency, alliance logistics, officer planning, and campaign windows.
+   - The key question is how the system prevents strong accounts from becoming freely reusable, globally projectable domination assets.
 
 Quadrants:
 
-1. Low path dependency + low sync: Castle War / COK Like.
-2. High path dependency + low sync: Seasonal Geo-Board / 率土 Like.
-3. Medium-low path dependency + high sync: Real-Time Field War / ROK Like.
-4. High path dependency + high sync: Geo + Real-Time Fusion.
+1. Low geo + attrition / economic constraint: COK / ROK-like default.
+2. High geo + reset / organization constraint: Lutu-like default.
+3. Low geo + reset / organization constraint: risk zone where high-power players can project too freely unless constrained by matching, instances, or artificial limits.
+4. High geo + attrition / economic constraint: over-constrained hybrid where both body loss and organization burden are high.
 
 Important caveat:
 
-The 2x2 is a spectrum / discussion plane, not four rigid boxes. ROK Like usually sits in the medium-low path-dependency region rather than pure low geo; fusion risk should be treated as a mechanism hypothesis to validate product by product.
+The 2x2 is a spectrum / discussion plane, not four rigid boxes. The genre has converged around two stable anchors: COK / ROK-like and Lutu-like. Real-time battlefield operation is now treated as a secondary modifier, not the root taxonomy axis.
+
+Secondary modifier:
+
+Unit-level synchronous battlefield operation still matters for ROK-like and fusion products. Free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command change combat feel, online burden, and failure attribution. But they do not replace the deeper question of high-power constraint and ordinary-player value.
 
 Important caution:
 
-Casualization is an overlay, not a clean quadrant. 无尽冬日 and Last War should be read as COK-like or SLG backend systems with lighter front-end entry and delayed complexity exposure.
+Casualization is an overlay, not a clean quadrant. Whiteout Survival and Last War should be read as COK-like or SLG backend systems with lighter front-end entry and delayed complexity exposure.
 
 ## Context Routing
 
@@ -237,12 +241,13 @@ These are stable enough for product and strategy discussion:
 3. COK Like leans vertical power, castle / city growth, rally hierarchy, event calendars, and cross-server conflict.
 4. 率土 Like leans season geo-board, land route, pass / city control, alliance discipline, diplomacy, and horizontal buildcraft.
 5. ROK Like adds live battlefield expression through free march, open-field fighting, rally / garrison, and live command.
-6. Fusion SLG is a high-risk mechanism hypothesis because it tries to stack geo-board depth and unit-level real-time battlefield operation, but product outcomes also depend on IP, UA, live ops, timing, and execution quality.
+6. Fusion SLG is a high-risk mechanism hypothesis because it can stack organization burden, body attrition, real-time online pressure, and paid-asset pressure at the same time; product outcomes also depend on IP, UA, live ops, timing, and execution quality.
 7. Casual COK Like is not just "SLG plus minigame." It is a user-entry and traffic-efficiency shift that preserves a high-LTV SLG backend.
 8. Alliance is the real retention structure across SLG, but the job of alliance differs by mountain.
 9. Non-whale contribution is a core design problem. Winning SLG must give ordinary players socially recognized jobs.
-10. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
-11. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
+10. High-power constraint is the mirror image of ordinary-player value: COK / ROK-like systems tend to give ordinary players attrition / body value, while Lutu-like systems tend to give ordinary players organization / logistics value.
+11. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
+12. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 
 ## Volatile Claims That Require Verification
 

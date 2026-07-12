@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-08
+Last updated: 2026-07-12
 
 ## Purpose
 
@@ -15,6 +15,32 @@ This is not a full research note. Keep entries short and decision-focused.
 2. Hypothesis: useful but needs further validation.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
+
+## 2026-07-12: Reframe The Internal 2x2 Around High-Power Constraint
+
+Status: Accepted
+
+Decision:
+
+The internal 2x2 should use `spatial path dependency / geo constraint` and `high-power constraint mode` as its main axes. Unit-level synchronous battlefield operation remains important, but it is now a secondary modifier rather than the root taxonomy axis.
+
+Rationale:
+
+The more genre-defining question is how the system constrains high-power players and therefore gives ordinary players value. COK / ROK-like games mostly constrain high-power advantage through attrition and economic sinks, so ordinary players provide body / attrition value. Lutu-like games constrain high-power advantage through geo dependency, season reset, and organization, so ordinary players provide logistics / organization value.
+
+Implications:
+
+1. ROK's real-time battlefield is a powerful combat-expression modifier, but it does not replace the deeper COK-side logic of long-account assets, attrition, healing / speedup pressure, rally / garrison hierarchy, and ordinary-player body value.
+2. Lutu-like connected land should be read as a productized way to limit high-power projection and create ordinary-player organization value, not merely as a map friction feature.
+3. Reset strength and body attrition strength should be analyzed together because both control whether high-power advantage becomes permanent, reusable, and too freely projectable.
+4. Fusion risk should be reframed as the danger of stacking organization burden, body attrition, real-time online pressure, and paid-asset pressure at the same time.
+5. Future product analysis should ask what war primarily consumes: troops, resources, time, map position, coordination, or social trust.
+
+Related files:
+
+1. `context/slg_internal_taxonomy_2x2.md`
+2. `context/agent_brief.md`
+3. `context/topic_index.md`
 
 ## 2026-06-29: Agent Brief As Living Entry Point
 
@@ -85,11 +111,11 @@ Related files:
 
 ## 2026-06-30: Synchronous Battlefield Axis Means Unit-Level Micro, Not All Live Coordination
 
-Status: Accepted
+Status: Superseded by 2026-07-12 high-power constraint reframing
 
 Decision:
 
-The vertical 2x2 axis should measure unit-level or micro-level battlefield operation: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command.
+The vertical 2x2 axis originally measured unit-level or micro-level battlefield operation: free march, positioning, kiting, focus fire, garrison swaps, pathing, and live command.
 
 Rationale:
 
@@ -99,7 +125,7 @@ Implications:
 
 1. Low unit-level micro does not mean low online pressure.
 2. High unit-level micro does not mean fair RTS; account assets, troops, healing, and alliance hierarchy still matter.
-3. The axis should be used to explain battle execution and monetization surface, not all forms of coordination.
+3. This lens should now be used as a secondary modifier to explain battle execution, online burden, and failure attribution, not as the root internal 2x2 axis.
 
 Related files:
 
