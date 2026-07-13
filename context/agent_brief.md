@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-12
+Last updated: 2026-07-13
 
 ## Purpose
 
@@ -111,13 +111,14 @@ Axes:
    - Attrition / economic constraint: high-power advantage is constrained by troop loss, healing, training, resources, speedups, shield / teleport choices, event cadence, and matching.
    - Reset / organization constraint: high-power advantage is constrained by season reset, map reset, geo access, route dependency, alliance logistics, officer planning, and campaign windows.
    - The key question is how the system prevents strong accounts from becoming freely reusable, globally projectable domination assets.
+   - A more player-facing shorthand is attrition intensity x organization intensity.
 
 Quadrants:
 
-1. Low geo + attrition / economic constraint: COK / ROK-like default.
-2. High geo + reset / organization constraint: Lutu-like default.
-3. Low geo + reset / organization constraint: risk zone where high-power players can project too freely unless constrained by matching, instances, or artificial limits.
-4. High geo + attrition / economic constraint: over-constrained hybrid where both body loss and organization burden are high.
+1. High attrition + lower organization intensity: COK / ROK-like default.
+2. Lower body attrition + high organization intensity: Lutu-like default.
+3. Low attrition + low organization intensity: high-power free-projection risk.
+4. High attrition + high organization intensity: over-constrained hybrid where both body loss and organization burden are high.
 
 Important caveat:
 
@@ -246,8 +247,9 @@ These are stable enough for product and strategy discussion:
 8. Alliance is the real retention structure across SLG, but the job of alliance differs by mountain.
 9. Non-whale contribution is a core design problem. Winning SLG must give ordinary players socially recognized jobs.
 10. High-power constraint is the mirror image of ordinary-player value: COK / ROK-like systems tend to give ordinary players attrition / body value, while Lutu-like systems tend to give ordinary players organization / logistics value.
-11. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
-12. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
+11. Connected land is powerful because it carries organization complexity, limits high-power projection, and records established season success. Lutu-like games need map reset because established organization success otherwise becomes permanent order.
+12. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
+13. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 
 ## Volatile Claims That Require Verification
 

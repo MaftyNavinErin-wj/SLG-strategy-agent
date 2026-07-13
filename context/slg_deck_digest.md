@@ -155,6 +155,9 @@ Current workspace read:
 2. COK / ROK-like systems mainly constrain high-power players through troop / body attrition, economic sinks, matching, and event cadence. Ordinary players mainly provide attrition / body value.
 3. Lutu-like systems mainly constrain high-power players through geo dependency, season reset, route access, and organization. Ordinary players mainly provide logistics / organization value.
 4. Real-time battlefield operation is a powerful expression and burden modifier, especially for ROK and fusion, but it is not the root taxonomy axis.
+5. A more direct player-facing shorthand is attrition intensity x organization intensity.
+6. Connected land is important because it carries organization complexity, limits high-power projection, and records established season success.
+7. Lutu-like reset is necessary because established routes, passes, cities, resource-state access, forward positions, and diplomatic buffers become organization assets. If they are not cleared, strong alliances begin the next cycle with the war already partly won.
 
 ### Casual COK Like Growth
 

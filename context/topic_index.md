@@ -1,7 +1,7 @@
 # Topic Index
 
 Status: living index  
-Last updated: 2026-07-12
+Last updated: 2026-07-13
 
 ## Purpose
 
@@ -55,7 +55,7 @@ Read:
 
 One-line read:
 
-The 2x2 is a spectrum, not four rigid boxes. COK / ROK-like games constrain high-power players mainly through attrition and economic sinks, so ordinary players provide body value; Lutu-like games constrain high-power players through geo dependency, season reset, and organization, so ordinary players provide logistics / organization value. Real-time battlefield operation is a secondary modifier.
+The 2x2 is a spectrum, not four rigid boxes. The most direct shorthand is attrition intensity x organization intensity: COK / ROK-like games lean high attrition and lower organization, so ordinary players provide body value; Lutu-like games lean lower body attrition and high organization, so ordinary players provide logistics / organization value. Real-time battlefield operation is a secondary modifier.
 
 ## Representative Product Mechanics
 

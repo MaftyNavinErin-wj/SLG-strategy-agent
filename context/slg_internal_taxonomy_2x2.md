@@ -25,6 +25,15 @@ High-power constraint is the mirror image of ordinary-player value.
 
 In SLG, high spenders / high-power accounts must feel meaningfully strong, but they cannot be allowed to freely project that strength everywhere with no cost. If they can, ordinary players become background objects rather than participants.
 
+The most direct version of the 2x2 is:
+
+> Attrition intensity x organization intensity.
+
+This is the same frame as geo constraint x high-power constraint, but stated closer to player experience:
+
+1. Attrition intensity measures how much war consumes the player's body: troops, healing, training, resources, speedups, shields, teleports, and recovery.
+2. Organization intensity measures how much war consumes coordinated social work: routes, access, timing, scouting, line repair, front-line logistics, officer planning, diplomacy, and attendance.
+
 Main ways the genre solves this:
 
 1. Constrain high-power accounts through attrition and economic sinks.
@@ -128,22 +137,22 @@ Commercial pattern:
 
 ## The 2x2
 
-| | Attrition / Economic Constraint | Reset / Organization Constraint |
+| | High Attrition / Body Consumption | Low Attrition / Body Consumption |
 | --- | --- | --- |
-| Low Geo Constraint | COK / ROK-like default: long-account war society where ordinary players provide body / attrition value | Risk zone: strong accounts can project power too freely unless constrained by heavy matchmaking, instances, or artificial limits |
-| High Geo Constraint | Over-constrained hybrid: both body attrition and organization burden are high; powerful but hard to balance | Lutu-like default: seasonal geo-board where ordinary players provide organization / logistics value |
+| Low Organization Intensity | COK / ROK-like default: long-account war society where ordinary players provide body / attrition value | High-power free-projection risk: strong accounts can matter too much and ordinary players can lose purpose |
+| High Organization Intensity | Over-constrained hybrid: both body attrition and organization burden are high; powerful but hard to balance | Lutu-like default: seasonal geo-board where ordinary players provide organization / logistics value |
 
 Read this as a spectrum, not four rigid boxes.
 
 The genre has converged around two stable anchors:
 
-1. Weak-to-medium geo + strong attrition / weak reset: COK / ROK-like.
-2. Strong geo + strong reset / lower body attrition: Lutu-like.
+1. High attrition + lower organization intensity: COK / ROK-like.
+2. Lower body attrition + high organization intensity: Lutu-like.
 
 The other two regions are possible but difficult:
 
-1. Low geo + low attrition / reset constraint risks high-power players becoming too free and ordinary players losing value.
-2. High geo + high attrition risks making high-power players afraid to use paid assets and ordinary players feel both overworked and consumed.
+1. Low attrition + low organization intensity risks high-power players becoming freely reusable strike assets and ordinary players losing value.
+2. High attrition + high organization intensity risks making high-power players afraid to use paid assets and ordinary players feel both overworked and consumed.
 
 ## Why Reset And Attrition Are Linked
 
@@ -153,6 +162,19 @@ Therefore COK / ROK-like games need troop loss, healing, training, speedups, res
 
 Strong-reset games periodically reset world order: land, map control, resource state, front lines, season settlement, and often active / grind-linked resources. Paid assets and account identity usually persist.
 
+The reason is not only fairness. In a high-organization game, the organization network itself becomes an established asset:
+
+1. Paved routes.
+2. Occupied passes.
+3. Captured resource-state access.
+4. Forward forts / camps / relocation positions.
+5. Front-line shape.
+6. Diplomatic buffers.
+7. Proven command hierarchy.
+8. Player trust and execution discipline.
+
+Lutu-like games usually preserve organizational capability, but reset organizational results. The alliance may keep reputation, leadership, trust, and cross-season relationships, but the map evidence of that organization must be cleared.
+
 Therefore Lutu-like games need strong cards / teams to remain useful across a season. If the system also heavily destroyed strong teams through body attrition, paid assets would feel unreliable and alliance war would become too conservative.
 
 Short version:
@@ -160,12 +182,17 @@ Short version:
 1. Weak reset requires attrition to stop high-power snowball.
 2. Strong reset can use map / season / organization to stop high-power free projection.
 3. Lutu-like games keep strong teams relatively reusable because the campaign window needs those teams to repeatedly create strategic value.
+4. If organization results are not reset, high-organization games can lock faster than low-organization games because geographic advantage, alliance discipline, and high-power accounts compound together.
 
 ## Why Connected Land Matters
 
 Connected land is not valuable because "paving is fun." Paving is often crude, repetitive, and not very simulation-realistic.
 
-Its product function is that it prevents high-power players from projecting strength alone.
+Its product function is that it carries three roles at once:
+
+1. Organization-complexity carrier.
+2. High-power projection limiter.
+3. Season-success recorder.
 
 In a free coordinate map with low attrition and arbitrary attack access, a strong player can become a reusable strike platform. Ordinary players have little reason to matter beyond being targets or fillers.
 
@@ -177,6 +204,12 @@ In a connected-land / path-dependent map:
 4. Alliance command becomes real work because power must move through an organization network.
 
 Lutu-like balance is not that ordinary players beat whales. It is that ordinary players help determine where and when whale power can be converted into map control.
+
+Connected land also records success. Once routes, passes, resource states, cities, and fronts are established, they are not just past victories. They become forward infrastructure for the next action. If the game did not reset them, the successful alliance would start the next cycle with the war already partially won.
+
+Compressed version:
+
+> Connected land gives ordinary players work, prevents high-power players from flying everywhere, and stores alliance success on the map. Because it stores success, Lutu-like games need map reset; otherwise connected-land success becomes permanent order.
 
 ## Two Ordinary-Player Value Models
 
@@ -299,13 +332,15 @@ When analyzing an SLG, ask in this order:
 
 1. What constrains high-power players?
 2. What value does the ordinary player provide: attrition, organization, or both?
-3. What does the system reset?
-4. What does the system permanently preserve?
-5. What does war primarily consume: troops, resources, time, map position, coordination, or social trust?
-6. How freely can power be projected across the map?
-7. Does real-time operation amplify or dilute the chosen high-power constraint?
-8. Does monetization match the resource being consumed?
+3. Is war friction mainly body attrition, organization work, or both?
+4. What does the system reset?
+5. What established success does reset remove?
+6. What does the system permanently preserve?
+7. What does war primarily consume: troops, resources, time, map position, coordination, or social trust?
+8. How freely can power be projected across the map?
+9. Does real-time operation amplify or dilute the chosen high-power constraint?
+10. Does monetization match the resource being consumed?
 
 ## One-Line Version
 
-COK / ROK-like games constrain high-power players mainly through attrition and economic sinks, so ordinary players provide body value; Lutu-like games constrain high-power players through geo dependency, season reset, and organization, so ordinary players provide logistics / organization value; real-time RTS expression is a powerful modifier, not the deepest taxonomy axis.
+The SLG 2x2 is best read as attrition intensity x organization intensity: COK / ROK-like games sit near high attrition and lower organization intensity, so ordinary players provide body value; Lutu-like games sit near lower body attrition and high organization intensity, so ordinary players provide logistics / organization value; connected land is powerful because it carries organization complexity, limits high-power projection, and records season success that must later be reset.

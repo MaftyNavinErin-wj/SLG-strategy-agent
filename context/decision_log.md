@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-12
+Last updated: 2026-07-13
 
 ## Purpose
 
@@ -15,6 +15,34 @@ This is not a full research note. Keep entries short and decision-focused.
 2. Hypothesis: useful but needs further validation.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
+
+## 2026-07-13: Clarify The 2x2 As Attrition Intensity x Organization Intensity
+
+Status: Accepted
+
+Decision:
+
+The July 2026 high-power constraint taxonomy should be explained in its most direct form as `attrition intensity x organization intensity`.
+
+Rationale:
+
+This is the clearest player-facing expression of the mechanism. COK / ROK-like games put war friction mainly into body attrition, so ordinary players provide troop body, attendance, recovery throughput, and reinforcement value. Lutu-like games put war friction mainly into organization work, so ordinary players provide paving, line repair, scouting, blocking, demolition, timing, logistics, and diplomacy-execution value.
+
+Reset logic should be read through this same lens. High-organization systems create organization assets: routes, passes, resource-state access, front-line positions, diplomatic buffers, proven leadership, and player discipline. Lutu-like games preserve organization capability but reset organization results; otherwise connected-land success becomes permanent order.
+
+Implications:
+
+1. Connected land has three roles: organization-complexity carrier, high-power projection limiter, and season-success recorder.
+2. If both attrition and organization intensity are high, high-power players feel punished for using paid assets and ordinary players feel both consumed and overworked.
+3. If both attrition and organization intensity are low, high-power players become reusable strike assets and ordinary players lose purpose.
+4. Lutu-like reset is not only about fairness; it clears established organization success so organization value can be earned again.
+5. COK / ROK weak reset is viable because attrition, healing, matching, migration, and event cadence keep long-account advantage from becoming fully free.
+
+Related files:
+
+1. `context/slg_internal_taxonomy_2x2.md`
+2. `context/agent_brief.md`
+3. `context/slg_deck_digest.md`
 
 ## 2026-07-12: Reframe The Internal 2x2 Around High-Power Constraint
 
