@@ -1,7 +1,7 @@
 # Topic Index
 
 Status: living index  
-Last updated: 2026-07-13
+Last updated: 2026-07-15
 
 ## Purpose
 
@@ -38,24 +38,25 @@ One-line read:
 
 SLG is a big-map war society, not just a strategy skin. The key split is product structure, not theme.
 
-## Internal 2x2: Geo Constraint x High-Power Constraint
+## Internal 2x2x2: Attrition x Geo Constraint x Reset
 
 Use when asking:
 
 1. Why COK Like, Lutu Like, ROK Like, and fusion feel different.
-2. How map structure, reset rules, troop / body attrition, alliance roles, and monetization fit together.
+2. How repeated-use cost, spatial reach, temporal persistence, alliance roles, power architecture, and monetization fit together.
 3. Why high-power constraint determines ordinary-player value.
 4. Why real-time battlefield operation is important but not the root taxonomy axis.
-5. Why fusion is hard.
+5. Why multiple teams can represent capacity horizontal or answer horizontal demand.
+6. Why fusion is hard.
 
 Read:
 
-1. `context/slg_internal_taxonomy_2x2.md`
-2. `context/decision_log.md` entries on spectrum, casualization overlay, and the July 2026 high-power constraint reframing
+1. `context/slg_internal_taxonomy_2x2x2.md`
+2. `context/decision_log.md` entries on the July 2026 three-axis expansion, reset, spectrum, and casualization overlay
 
 One-line read:
 
-The 2x2 is a spectrum, not four rigid boxes. The most direct shorthand is attrition intensity x organization intensity: COK / ROK-like games lean high attrition and lower organization, so ordinary players provide body value; Lutu-like games lean lower body attrition and high organization, so ordinary players provide logistics / organization value. Real-time battlefield operation is a secondary modifier.
+The primary mechanism cube is body attrition / repeated-use cost x geo dependency / spatial reach x reset / temporal persistence. Its constraint vector shapes vertical magnitude / throughput versus horizontal optionality / adaptation and therefore the dominant monetization pressure. The older attrition x organization 2x2 remains a useful player-facing projection.
 
 ## Representative Product Mechanics
 
@@ -112,7 +113,7 @@ Read:
 
 1. `context/grand_strategy_4x_live_service_tensions.md`
 2. `context/slg_deck_digest.md`
-3. `context/slg_internal_taxonomy_2x2.md` if mobile SLG subtype comparison matters
+3. `context/slg_internal_taxonomy_2x2x2.md` if mobile SLG subtype comparison matters
 
 One-line read:
 

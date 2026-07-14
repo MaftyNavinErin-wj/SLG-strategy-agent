@@ -145,22 +145,24 @@ Questions:
 
 ## Key Strategic Reads
 
-### High-Power Constraint As The Deeper Split
+### High-Power Constraint As A Three-Axis Model
 
 The deck points to this through reset rules, map model, COK "head and body" social structure, Lutu-like division of labor, and fusion social-retention challenges, but it does not fully name the underlying mechanism.
 
 Current workspace read:
 
-1. The genre-defining question is how the system constrains high-power players and therefore gives ordinary players value.
-2. COK / ROK-like systems mainly constrain high-power players through troop / body attrition, economic sinks, matching, and event cadence. Ordinary players mainly provide attrition / body value.
-3. Lutu-like systems mainly constrain high-power players through geo dependency, season reset, route access, and organization. Ordinary players mainly provide logistics / organization value.
-4. Real-time battlefield operation is a powerful expression and burden modifier, especially for ROK and fusion, but it is not the root taxonomy axis.
-5. A more direct player-facing shorthand is attrition intensity x organization intensity.
-6. Connected land is important because it carries organization complexity, limits high-power projection, and records established season success.
-7. Lutu-like reset is necessary because established routes, passes, cities, resource-state access, forward positions, and diplomatic buffers become organization assets. If they are not cleared, strong alliances begin the next cycle with the war already partly won.
-8. Reset strength should be measured by paid-power utility depreciation, not by literal data deletion. Preserved generals can still be strongly depreciated when the new season changes the competitive environment and required lineups.
-9. Season reset supports horizontal general monetization by turning many simultaneous lineup needs into serialized demand across seasons: players retain ownership but repeatedly need new or rebuilt answers.
-10. Return to Empire is a useful fusion case: ROK-side free projection and troop attrition are combined with stronger Lutu-side seasonal lineup renewal. The resulting risk is double pressure on high-power players without equally strong connected-land organization value.
+1. The genre-defining question is how the system constrains accumulated power and therefore gives ordinary players value.
+2. The primary mechanism cube has three continuous axes: body attrition limits repeated use, geo dependency limits spatial reach, and reset limits temporal persistence.
+3. COK / ROK-like systems lean toward high attrition, low-to-medium geo constraint, and weak reset. Ordinary players mainly provide attrition / body value.
+4. Lutu-like systems lean toward lower body attrition, high geo constraint, and strong reset. Ordinary players mainly provide logistics / organization value.
+5. Attrition and geo constraint are two main ways to constrain high power. Weak reset increases the need for attrition; connected geo stores organization success and increases the need for world-order reset.
+6. Connected land matters because it carries organization complexity, limits high-power projection, and records established season success.
+7. Reset should be inspected at three layers: world / political order, seasonal economy, and paid-power utility depreciation.
+8. Vertical vs horizontal power is a downstream asset structure. Vertical systems emphasize magnitude / throughput; horizontal systems emphasize optionality / adaptation.
+9. Multiple teams do not automatically prove horizontal power. Capacity horizontal adds simultaneous bodies / firepower; answer horizontal adds counters, roles, coexistence, and season-context solutions.
+10. Dominant monetization follows the power structure: vertical systems sell stats, resources, recovery, and acceleration; horizontal systems sell card / general breadth, coexistence, counters, and portfolio renewal.
+11. Real-time battlefield operation is a powerful expression and burden modifier, especially for ROK and fusion, but it is not a root constraint axis.
+12. Return to Empire is a useful double-pressure case: ROK-side free projection and troop attrition combine with stronger seasonal paid-power depreciation without equally strong connected-land organization value.
 
 ### Casual COK Like Growth
 

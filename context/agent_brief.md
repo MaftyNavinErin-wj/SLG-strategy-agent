@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-14
+Last updated: 2026-07-15
 
 ## Purpose
 
@@ -96,33 +96,40 @@ Use this as the main structural taxonomy unless a question explicitly asks for a
    - Survival, running, shooting, puzzle, settlement, or other light loops reduce first-session resistance.
    - The backend still converts players into alliance obligation, event schedules, vertical growth, and high-LTV war systems.
 
-## Secondary Lens: Internal 2x2
+## Secondary Lens: Internal 2x2x2
 
-Use `context/slg_internal_taxonomy_2x2.md` when explaining how SLG subtypes feel different in play.
+Use `context/slg_internal_taxonomy_2x2x2.md` when explaining how SLG subtypes constrain accumulated power and produce different account / monetization structures.
 
-Axes:
+Primary constraint axes:
 
-1. Spatial path dependency / geo constraint:
-   - Low: map is mostly coordinate container and event target space.
-   - High: land, roads, passes, distance, access, borders, and front lines change future strategic options.
-   - Connected land is an implementation detail; the deeper issue is whether map choices create persistent route dependence, alliance labor, and diplomacy with physical consequences.
+1. Body attrition / repeated-use cost:
+   - Low: strong teams or marches can be reused cheaply and frequently.
+   - High: troop loss, healing, training, resources, speedups, and recovery tax each use of power.
 
-2. High-power constraint mode:
-   - Attrition / economic constraint: high-power advantage is constrained by troop loss, healing, training, resources, speedups, shield / teleport choices, event cadence, and matching.
-   - Reset / organization constraint: high-power advantage is constrained by season reset, map reset, geo access, route dependency, alliance logistics, officer planning, and campaign windows.
-   - The key question is how the system prevents strong accounts from becoming freely reusable, globally projectable domination assets.
-   - A more player-facing shorthand is attrition intensity x organization intensity.
+2. Spatial path dependency / geo constraint:
+   - Low: power can be projected relatively freely across a coordinate or event space.
+   - High: land, roads, passes, access, borders, logistics, and front lines determine where power can matter.
+   - Connected land is an implementation detail; the deeper function is restricting power projection through an organization network.
 
-Quadrants:
+3. Season reset / temporal persistence:
+   - Low: account power and established success remain useful for long periods.
+   - High: world order, seasonal growth, and / or retained paid-power utility are strongly renewed or depreciated.
+   - Inspect world / political-order reset, seasonal-economy reset, and paid-power utility reset separately.
 
-1. High attrition + lower organization intensity: COK / ROK-like default.
-2. Lower body attrition + high organization intensity: Lutu-like default.
-3. Low attrition + low organization intensity: high-power free-projection risk.
-4. High attrition + high organization intensity: over-constrained hybrid where both body loss and organization burden are high.
+Core relationships:
 
-Important caveat:
+1. Attrition and geo constraint are two main ways to constrain high power and create ordinary-player body or organization value.
+2. Weak reset usually requires stronger attrition because long-account power otherwise compounds without enough repeated-use cost.
+3. High geo constraint stores organization success in routes, passes, positions, infrastructure, and diplomacy, creating a stronger need for world-order reset.
 
-The 2x2 is a spectrum / discussion plane, not four rigid boxes. The genre has converged around two stable anchors: COK / ROK-like and Lutu-like. Real-time battlefield operation is now treated as a secondary modifier, not the root taxonomy axis.
+Downstream outcomes:
+
+1. Vertical power emphasizes magnitude and throughput: how strong the best asset is and how often it can be restored and reused.
+2. Horizontal power emphasizes optionality and adaptation: how many counters, roles, coexistence combinations, and season environments the account can answer.
+3. Multiple teams do not automatically mean horizontal power. Capacity horizontal adds simultaneous bodies / firepower; answer horizontal adds contextual solutions the first team cannot provide.
+4. Vertical monetization mainly sells stats, resources, recovery, and acceleration. Horizontal monetization mainly sells card / general breadth, coexistence, counters, and portfolio renewal.
+
+The old attrition intensity x organization intensity 2x2 remains a useful player-facing projection. It explains ordinary-player value and war burden; the 2x2x2 explains repeated use, spatial reach, and temporal persistence separately. All axes are spectra, not rigid boxes.
 
 Secondary modifier:
 
@@ -139,7 +146,7 @@ Casualization is an overlay, not a clean quadrant. Whiteout Survival and Last Wa
 Read:
 
 1. `context/slg_deck_digest.md`
-2. `context/slg_internal_taxonomy_2x2.md`
+2. `context/slg_internal_taxonomy_2x2x2.md`
 3. `context/slg_deck_page_by_page_walkthrough.md` only if page-level deck context is needed.
 
 Use for:
@@ -222,7 +229,7 @@ Read:
 
 1. `context/grand_strategy_4x_live_service_tensions.md`
 2. `context/slg_deck_digest.md`
-3. `context/slg_internal_taxonomy_2x2.md` if the question involves mobile SLG subtypes.
+3. `context/slg_internal_taxonomy_2x2x2.md` if the question involves mobile SLG subtypes.
 
 Use for:
 
@@ -247,11 +254,14 @@ These are stable enough for product and strategy discussion:
 8. Alliance is the real retention structure across SLG, but the job of alliance differs by mountain.
 9. Non-whale contribution is a core design problem. Winning SLG must give ordinary players socially recognized jobs.
 10. High-power constraint is the mirror image of ordinary-player value: COK / ROK-like systems tend to give ordinary players attrition / body value, while Lutu-like systems tend to give ordinary players organization / logistics value.
-11. Connected land is powerful because it carries organization complexity, limits high-power projection, and records established season success. Lutu-like games need map reset because established organization success otherwise becomes permanent order.
-12. Reset strength should be measured by paid-power utility depreciation, not literal asset deletion. Strong season reset can preserve generals and account progression while changing the environment enough to make existing lineups relatively less useful and renew horizontal roster demand.
-13. Return to Empire is a useful fusion case: it combines ROK-side free projection / attrition with stronger Lutu-side seasonal lineup renewal. Its risk is that high-power players face both in-season body consumption and between-season paid-power depreciation without equally strong connected-land organization value.
-14. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
-15. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
+11. The internal mechanism taxonomy has three primary constraint axes: body attrition limits repeated use, geo dependency limits spatial reach, and reset limits temporal persistence.
+12. Connected land is powerful because it carries organization complexity, limits high-power projection, and records established season success. Lutu-like games need map reset because established organization success otherwise becomes permanent order.
+13. Reset strength should be inspected across world order, seasonal economy, and paid-power utility. Strong season reset can preserve ownership while changing the environment enough to make existing lineups relatively less useful and renew horizontal roster demand.
+14. Vertical vs horizontal power is a downstream asset structure, not an independent mechanism axis. Vertical systems emphasize magnitude / throughput; horizontal systems emphasize optionality / adaptation.
+15. Multiple teams do not by themselves prove horizontal power. ROK-like capacity horizontal mainly adds simultaneous bodies and firepower; Lutu-like answer horizontal more strongly adds counters, roles, coexistence, and season-specific solutions.
+16. Return to Empire is a useful fusion case: it combines ROK-side free projection / attrition with stronger Lutu-side seasonal lineup renewal. Its risk is that high-power players face both in-season body consumption and between-season paid-power depreciation without equally strong connected-land organization value.
+17. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
+18. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 
 ## Volatile Claims That Require Verification
 

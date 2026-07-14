@@ -1,8 +1,8 @@
-# SLG Internal Taxonomy: Geo Constraint x High-Power Constraint
+# SLG Internal Taxonomy: Attrition x Geo Constraint x Reset
 
 Status: accepted working synthesis  
 Date: 2026-06-29  
-Latest refinement: 2026-07-14
+Latest refinement: 2026-07-15
 
 ## Why This Note Exists
 
@@ -11,13 +11,19 @@ The earlier internal 2x2 used:
 1. Spatial path dependency / geo constraint.
 2. Unit-level synchronous battlefield operation.
 
-That frame was useful for explaining why COK Like, Lutu Like, ROK Like, and fusion products feel different. The July 2026 refinement is that battlefield real-time operation is not the deepest genre-defining axis. It is better treated as a secondary modifier.
+That frame was useful for explaining why COK Like, Lutu Like, ROK Like, and fusion products feel different. The July 2026 refinement first moved unit-level real-time operation into a secondary modifier and reframed the plane as attrition intensity x organization intensity.
+
+The latest refinement is that the 2x2 is a useful projection of a deeper three-dimensional model rather than the complete taxonomy. High-power advantage can be constrained along three different dimensions:
+
+1. Repeated-use cost through body attrition.
+2. Spatial reach through geo dependency / connected access.
+3. Temporal persistence through season reset.
 
 The deeper question is:
 
 > How does the system constrain high-power players, and therefore how does it give ordinary players value?
 
-This is the more genre-defining layer because it links map design, season reset, troop attrition, alliance roles, monetization, and long-term server ecology into one mechanism.
+This is the more genre-defining layer because it links map design, season reset, troop attrition, alliance roles, power architecture, monetization, and long-term server ecology into one mechanism.
 
 ## Core Thesis
 
@@ -25,7 +31,7 @@ High-power constraint is the mirror image of ordinary-player value.
 
 In SLG, high spenders / high-power accounts must feel meaningfully strong, but they cannot be allowed to freely project that strength everywhere with no cost. If they can, ordinary players become background objects rather than participants.
 
-The most direct version of the 2x2 is:
+The core 2x2 remains useful as a player-facing shorthand:
 
 > Attrition intensity x organization intensity.
 
@@ -34,15 +40,24 @@ This is the same frame as geo constraint x high-power constraint, but stated clo
 1. Attrition intensity measures how much war consumes the player's body: troops, healing, training, resources, speedups, shields, teleports, and recovery.
 2. Organization intensity measures how much war consumes coordinated social work: routes, access, timing, scouting, line repair, front-line logistics, officer planning, diplomacy, and attendance.
 
-Main ways the genre solves this:
+The deeper 2x2x2 separates three mechanisms that the 2x2 partially compressed:
 
-1. Constrain high-power accounts through attrition and economic sinks.
-2. Constrain high-power accounts through geo dependency, season reset, and organization.
+1. Attrition constrains how cheaply power can be reused.
+2. Geo dependency constrains where power can be projected.
+3. Reset constrains how long accumulated power and established success remain useful.
 
-This produces two dominant product paradigms:
+A compact model is:
+
+> Realized domination power = power stock x reusability x spatial reach x temporal persistence.
+
+Attrition lowers reusability. Connected geo lowers spatial reach. Reset lowers temporal persistence. A product can use one mechanism as its main constraint and the others as supporting layers.
+
+This still produces two dominant product paradigms:
 
 1. COK / ROK-like: ordinary players mainly provide attrition value.
 2. Lutu-like: ordinary players mainly provide organization value.
+
+The three constraint mechanisms then shape a downstream outcome: whether account power is built mainly as vertical magnitude / throughput or horizontal answer breadth / adaptation. Monetization follows that power architecture rather than sitting beside it as another independent axis.
 
 ## Relationship To The Derrick / Mountain Frame
 
@@ -61,98 +76,86 @@ What the deck does not fully make explicit is the underlying mechanism:
 
 This note makes that mechanism explicit.
 
-## Revised Axes
+## Primary 2x2x2 Constraint Model
 
-### Axis 1: Spatial Path Dependency / Geo Constraint
+The model has three continuous axes. Binary high / low labels are only a shorthand for discussing the eight corners.
+
+### Axis A: Body Attrition / Repeated-Use Cost
 
 The question:
 
-> Do map choices persistently change future strategic options?
+> How cheaply and frequently can accumulated power be reused?
+
+High attrition constrains power through troop loss, healing, training, resources, speedups, rally / garrison cost, shield / teleport decisions, and recovery time. It gives ordinary players body value through attendance, reinforcement, distributed pressure, sacrifice, and recovery throughput.
+
+Low attrition lets strong teams or marches remain reusable. This supports repeated strategic use across a campaign, but it becomes dangerous when spatial and temporal constraints are also weak.
+
+### Axis G: Spatial Path Dependency / Geo Constraint
+
+The question:
+
+> Where can accumulated power be projected, and what organization network must exist first?
 
 Low geo constraint:
 
 1. The map mainly carries coordinates, monsters, resource points, throne / wonder targets, and event objectives.
 2. Teleport, rally, shields, event entry, or loose objective access weaken continuous front-line pressure.
-3. War is real, but the map is often more a container than a persistent path-dependent board.
-4. High-power players can often project power more freely across the map or event space.
+3. High-power players can often project power more freely across the map or event space.
 
 High geo constraint:
 
 1. Land, roads, passes, cities, borders, distance, access rights, and front lines determine strategic options.
 2. Occupation changes what can happen next.
-3. Alliance diplomacy and execution are inseparable from map position.
-4. High-power players need a route network, front-line access, logistics, and alliance execution before their strength can matter.
-5. Ordinary players gain value through route work: paving, repairing lines, blocking, flipping land, scouting, garrisoning, demolition, and timing objective access.
+3. High-power players need route access, logistics, front-line infrastructure, and alliance execution before strength can become map control.
+4. Ordinary players gain organization value through paving, line repair, blocking, flipping land, scouting, garrisoning, demolition, profession / logistics work, and timing objective access.
 
-Connected land is only one implementation. The deeper mechanism is that the map becomes a network of routes, chokepoints, front lines, access rights, and timing windows.
+Connected land is only one implementation. The deeper mechanism is restricted spatial projection through an organization network.
 
-### Axis 2: High-Power Constraint Mode
+### Axis R: Season Reset / Temporal Persistence
 
 The question:
 
-> What prevents strong accounts from becoming freely reusable, globally projectable, low-cost domination assets?
+> How long do accumulated power and established success remain competitively useful?
 
-This axis is driven by two linked design choices:
+Reset must be inspected at three layers:
 
-1. Season reset strength.
-2. Unit / body attrition strength.
+1. World / political-order reset: routes, passes, cities, resource-state access, front lines, and diplomatic buffers.
+2. Seasonal-economy reset: levels, buildings, resources, troop progression, and grind-linked advantages.
+3. Paid-power utility reset: how strongly new rules, counters, maps, troop environments, or lineup requirements depreciate the relative utility of retained paid assets.
 
-Two poles:
+High reset reopens competition and can serialize lineup demand across seasons. Low reset preserves long-account continuity but needs stronger in-season constraints to prevent permanent power compounding.
 
-#### Attrition / Economic Constraint
+### Structural Relationships Between The Axes
 
-High-power advantage is constrained by troop loss, healing, training, resources, speedups, rally / garrison cost, shield / teleport decisions, and long-term economic sinks.
+The axes are analytically separate but causally linked:
 
-This fits weak-reset or long-account games because accumulated power otherwise becomes irreversible.
+1. Attrition x geo constraint: these are two main ways to constrain high power and create ordinary-player value. Attrition creates body value; geo constraint creates organization value.
+2. Attrition x reset: weak reset usually requires stronger repeated-use cost. Strong attrition plus strong paid-power depreciation creates double pressure on high spenders.
+3. Geo constraint x reset: path-dependent maps store organization success. The more routes, passes, positions, infrastructure, and diplomatic buffers matter, the more necessary world-order reset becomes.
 
-Player value pattern:
+### The Eight Corner Risks
 
-1. High-power players lead rallies, garrisons, key attacks, and server status.
-2. Ordinary players provide troop body, attendance, reinforcement, resource depth, event participation, and recovery throughput.
-3. Their value is real, but often substitutable: they are the "body" behind the "head."
+| Attrition | Geo Constraint | Reset | Structural Read |
+| --- | --- | --- | --- |
+| Low | Low | Low | Collapse risk: power is cheap to reuse, broadly projectable, and permanently persistent |
+| High | Low | Low | COK / ROK-side stable anchor: vertical long-account power controlled through body and economic sinks |
+| Low | High | High | Lutu-side stable anchor: reusable teams constrained by organization and renewed through season reset |
+| Low | High | Low | Geography stores success without clearing it; established alliance order can harden permanently |
+| High | Low | High | Double-tax risk: in-season body consumption plus between-season paid-power depreciation |
+| High | High | Low | Heavy war and organization burden while established order remains difficult to reopen |
+| Low | Low | High | Reset lacks a strong spatial or ecological justification and can feel like arbitrary commercial churn |
+| High | High | High | Triple-constraint risk: body, organization, and temporal value are all heavily taxed |
 
-Commercial pattern:
+### The Old 2x2 As A Projection
 
-1. War consumes the player's body.
-2. Spending restores, accelerates, protects, and deepens that body.
-3. Long-term assets are preserved, so the system needs continuous sinks and matching to prevent permanent server lock.
-
-#### Reset / Organization Constraint
-
-High-power advantage is constrained by season reset, map reset, geo access, route dependency, alliance logistics, officer planning, and time-limited campaign windows.
-
-This fits Lutu-like games because the map order is periodically reset, while paid / account assets such as cards, generals, tactics, and buildcraft knowledge retain value.
-
-Player value pattern:
-
-1. High-power players are breakthrough and hard-point assets.
-2. They cannot single-handedly create routes, hold every front, repair lines, scout counters, execute timings, or maintain alliance logistics.
-3. Ordinary players provide organization value: paving, line repair, flipping, garrisoning, demolition, scouting, timing, diplomacy execution, profession / logistics roles, and front-line attendance.
-
-Commercial pattern:
-
-1. War does not primarily destroy the paid card / team as a long-term asset.
-2. Spending is valuable because a strong deck can repeatedly convert into season-critical organization value.
-3. The pressure is not "each fight permanently ruins me"; it is "the season window and alliance obligation make early and reliable strength valuable."
-
-## The 2x2
+The player-facing 2x2 remains useful:
 
 | | High Attrition / Body Consumption | Low Attrition / Body Consumption |
 | --- | --- | --- |
-| Low Organization Intensity | COK / ROK-like default: long-account war society where ordinary players provide body / attrition value | High-power free-projection risk: strong accounts can matter too much and ordinary players can lose purpose |
-| High Organization Intensity | Over-constrained hybrid: both body attrition and organization burden are high; powerful but hard to balance | Lutu-like default: seasonal geo-board where ordinary players provide organization / logistics value |
+| Low Organization Intensity | COK / ROK-like default | High-power free-projection risk |
+| High Organization Intensity | Over-constrained hybrid | Lutu-like default |
 
-Read this as a spectrum, not four rigid boxes.
-
-The genre has converged around two stable anchors:
-
-1. High attrition + lower organization intensity: COK / ROK-like.
-2. Lower body attrition + high organization intensity: Lutu-like.
-
-The other two regions are possible but difficult:
-
-1. Low attrition + low organization intensity risks high-power players becoming freely reusable strike assets and ordinary players losing value.
-2. High attrition + high organization intensity risks making high-power players afraid to use paid assets and ordinary players feel both overworked and consumed.
+This projection explains ordinary-player value and moment-to-moment war burden. The 2x2x2 explains the fuller mechanism by separating spatial projection from temporal persistence. Both are spectra, not rigid boxes.
 
 ## Why Reset And Attrition Are Linked
 
@@ -201,7 +204,7 @@ Compressed version:
 
 > Horizontal monetization creates recurring lineup demand through environment change; strong reset is strong paid-power utility depreciation, even when ownership is preserved.
 
-This is not a third axis separate from attrition and organization. Reset is one of the main mechanisms used to renew power competition and monetize the chosen structure.
+Reset is now treated as the third primary constraint axis because it independently controls temporal persistence. Paid-power utility depreciation is not a separate fourth axis; it is one important layer of reset strength.
 
 The gameplay and commercial functions can reinforce each other:
 
@@ -228,9 +231,45 @@ The structural tension is also clear:
 
 Taxonomy placement:
 
-> Return to Empire sits closer to high attrition + medium organization intensity, with unusually strong seasonal paid-power depreciation for that position.
+> Return to Empire sits closer to high attrition + low-to-medium geo constraint + strong paid-power utility reset.
 
-This does not require a new taxonomy dimension. The season reset is part of how the product commercializes its position. The analytical warning is that high attrition and strong reset can stack pressure on high-power players when organization value is not strong enough to provide an equally compelling gameplay reason for the reset.
+The analytical warning is that high attrition and strong reset can stack pressure on high-power players when geo / organization value is not strong enough to provide an equally compelling gameplay reason for the reset.
+
+## Downstream Outcome: Vertical vs Horizontal Power
+
+Vertical vs horizontal power should not be treated as a fourth independent mechanism axis. It is a downstream asset architecture encouraged by the A x G x R constraint vector.
+
+Vertical power emphasizes:
+
+1. Magnitude: how strong the best march, team, city, technology stack, or rally lead is.
+2. Throughput: how often that power can be rebuilt, healed, accelerated, protected, and reused.
+3. A relatively direct comparison line in frequent head-to-head projection.
+
+Horizontal power emphasizes:
+
+1. Answer breadth: how many counters, roles, troop environments, fronts, and lineup requirements the account can cover.
+2. Adaptation: how quickly the account can respond when season rules or battle contexts change.
+3. Coexistence quality: whether multiple teams can be fielded without competing for the same key generals, tactics, or equipment.
+
+The links are tendencies, not deterministic laws:
+
+1. High attrition does not inherently create vertical power. Rather, weak reset and low geo constraint make durable vertical power viable only when repeated use is taxed through attrition and recovery sinks.
+2. High geo constraint does not automatically create horizontal power. It increases battlefield selectivity, role differentiation, and contextual value, but vertical stats can still overwhelm those contexts if balance is weak.
+3. Strong reset encourages horizontal power only when retained assets are revalued across environments. Literal deletion can instead produce a repeated seasonal vertical race.
+
+Two forms of multi-team demand must also be separated:
+
+1. Capacity horizontal: additional teams mainly add more simultaneous bodies, firepower, or map presence. ROK-like multi-march play often has this character while remaining vertically anchored.
+2. Answer horizontal: additional teams solve matchups, roles, fronts, or season contexts that the first team cannot solve. Lutu-like coexistence and card / tactic portfolios lean further in this direction.
+
+## Downstream Outcome: Monetization
+
+Monetization follows the power architecture:
+
+1. Vertical systems mainly monetize magnitude and throughput: stats, buildings, troops, technology, gear, resources, healing, recovery, protection, and acceleration.
+2. Horizontal systems mainly monetize optionality and adaptation: card / general breadth, tactics, coexistence, counters, seasonal answers, and speed of portfolio renewal.
+
+This is a dominant-pressure distinction, not an exclusive content rule. Vertical games still sell heroes, and horizontal games still sell resources. The analytical question is what the player must repeatedly buy in order to remain competitively relevant.
 
 ## Why Connected Land Matters
 
@@ -378,17 +417,17 @@ The opportunity is not to copy PC grand strategy directly. It is to find a more 
 
 When analyzing an SLG, ask in this order:
 
-1. What constrains high-power players?
-2. What value does the ordinary player provide: attrition, organization, or both?
-3. Is war friction mainly body attrition, organization work, or both?
-4. What does the system reset?
-5. What established success does reset remove?
-6. What does the system permanently preserve?
+1. Reuse: what does each use of power consume, and how quickly can it recover?
+2. Reach: how freely can power be projected across the map, and what organization network is required first?
+3. Persistence: what world order, seasonal growth, and paid-power utility does the system reset or preserve?
+4. What value does the ordinary player provide: body attrition, organization work, or both?
+5. Is multi-team demand mainly capacity horizontal or answer horizontal?
+6. Does the resulting account architecture reward vertical magnitude / throughput or horizontal optionality / adaptation?
 7. What does war primarily consume: troops, resources, time, map position, coordination, or social trust?
-8. How freely can power be projected across the map?
-9. Does real-time operation amplify or dilute the chosen high-power constraint?
-10. Does monetization match the resource being consumed?
+8. Does real-time operation amplify or dilute the chosen constraint vector?
+9. Does casualization change only entry or also the backend war structure?
+10. Does monetization match the power architecture and the resource being consumed?
 
 ## One-Line Version
 
-The SLG 2x2 is best read as attrition intensity x organization intensity: COK / ROK-like games sit near high attrition and lower organization intensity, so ordinary players provide body value; Lutu-like games sit near lower body attrition and high organization intensity, so ordinary players provide logistics / organization value; connected land is powerful because it carries organization complexity, limits high-power projection, and records season success that must later be reset.
+SLG constrains accumulated power through repeated-use cost, spatial reach, and temporal persistence: attrition, geo dependency, and reset form the primary 2x2x2; their combination shapes ordinary-player value, produces a more vertical magnitude / throughput or horizontal optionality / adaptation account structure, and leads monetization toward resources / recovery or cards / portfolio renewal.

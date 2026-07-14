@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-14
+Last updated: 2026-07-15
 
 ## Purpose
 
@@ -16,13 +16,44 @@ This is not a full research note. Keep entries short and decision-focused.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
 
-## 2026-07-14: Define Strong Reset As Strong Paid-Power Utility Depreciation
+## 2026-07-15: Expand The Internal Taxonomy To Attrition x Geo Constraint x Reset
 
 Status: Accepted
 
 Decision:
 
-Reset strength should be defined by how strongly a new season depreciates the relative utility of existing paid power, not by how much account data is literally deleted. This commercial function belongs inside the existing attrition x organization framework and should not become a separate taxonomy axis.
+The primary internal mechanism taxonomy should use three continuous constraint axes: body attrition / repeated-use cost, spatial path dependency / projection constraint, and season reset / temporal persistence. The earlier attrition x organization 2x2 remains useful as a player-facing projection, but it is not the complete taxonomy.
+
+Vertical vs horizontal power is a downstream asset architecture produced by the three-axis constraint vector, not a fourth independent mechanism axis. Monetization is a further downstream outcome.
+
+Rationale:
+
+Accumulated power becomes domination through three separate permissions: it must be reusable, able to reach the relevant battlefield, and remain useful over time. Attrition limits reuse, connected geo limits reach, and reset limits persistence.
+
+The axes are linked but not identical. Weak reset usually requires stronger attrition. Connected geo stores organization success and therefore creates a stronger need for world-order reset. Attrition and geo constraint are two main ways to create ordinary-player value through body contribution or organization work.
+
+Implications:
+
+1. Analyze reset at three layers: world / political order, seasonal economy, and paid-power utility depreciation.
+2. Treat COK / ROK-like as the stable high-attrition, low-to-medium-geo, weak-reset anchor.
+3. Treat Lutu-like as the stable lower-attrition, high-geo, strong-reset anchor.
+4. Separate capacity horizontal demand from answer horizontal demand. Multiple ROK marches can add simultaneous body / firepower while the account remains vertically anchored; Lutu-like portfolios lean further toward contextual answers and coexistence.
+5. Describe vertical monetization as selling magnitude and throughput, and horizontal monetization as selling optionality and adaptation.
+6. Use the eight cube corners as structural risk regions, not rigid product boxes.
+
+Related files:
+
+1. `context/slg_internal_taxonomy_2x2x2.md`
+2. `context/agent_brief.md`
+3. `context/slg_deck_digest.md`
+
+## 2026-07-14: Define Strong Reset As Strong Paid-Power Utility Depreciation
+
+Status: Superseded
+
+Decision:
+
+Reset strength should be defined by how strongly a new season depreciates the relative utility of existing paid power, not by how much account data is literally deleted. This entry originally kept reset inside the attrition x organization framework; the depreciation definition is retained, but the 2026-07-15 decision now treats reset / temporal persistence as a primary third axis.
 
 Rationale:
 
@@ -36,11 +67,11 @@ Implications:
 2. Strong reset naturally implies strong paid-power utility depreciation, even when the player still owns every general.
 3. In Lutu-like games, gameplay reset and commercial reset reinforce each other: map reset clears established organization success, while environment reset renews lineup demand.
 4. A fusion product is at greater risk when it combines high attrition and strong seasonal depreciation without creating equally strong ordinary-player organization value.
-5. Return to Empire should remain inside the 2x2 as a high-attrition, medium-organization case rather than creating a third axis for roster depreciation.
+5. Superseded placement: Return to Empire is now described as high attrition + low-to-medium geo constraint + strong paid-power utility reset; the old high-attrition, medium-organization 2x2 placement remains only as a simplified projection.
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 
 ## 2026-07-13: Clarify The 2x2 As Attrition Intensity x Organization Intensity
@@ -67,13 +98,13 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 3. `context/slg_deck_digest.md`
 
 ## 2026-07-12: Reframe The Internal 2x2 Around High-Power Constraint
 
-Status: Accepted
+Status: Superseded
 
 Decision:
 
@@ -93,7 +124,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 3. `context/topic_index.md`
 
@@ -138,7 +169,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/game_mechanics/whiteout_survival_mechanics.md`
 
 ## 2026-06-30: Replace "Territory Continuity" With Spatial Path Dependency
@@ -161,7 +192,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 
 ## 2026-06-30: Synchronous Battlefield Axis Means Unit-Level Micro, Not All Live Coordination
@@ -184,7 +215,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 
 ## 2026-07-06: 2x2 Is A Spectrum, Not Four Rigid Boxes
@@ -207,7 +238,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/agent_brief.md`
 
 ## 2026-07-06: Fusion Risk Is A Mechanism Hypothesis
@@ -230,7 +261,7 @@ Implications:
 
 Related files:
 
-1. `context/slg_internal_taxonomy_2x2.md`
+1. `context/slg_internal_taxonomy_2x2x2.md`
 2. `context/slg_deck_digest.md`
 
 ## 2026-07-08: Grand Strategy / 4X And Mobile SLG Have Structural Tensions
