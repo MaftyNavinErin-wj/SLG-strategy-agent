@@ -158,6 +158,9 @@ Current workspace read:
 5. A more direct player-facing shorthand is attrition intensity x organization intensity.
 6. Connected land is important because it carries organization complexity, limits high-power projection, and records established season success.
 7. Lutu-like reset is necessary because established routes, passes, cities, resource-state access, forward positions, and diplomatic buffers become organization assets. If they are not cleared, strong alliances begin the next cycle with the war already partly won.
+8. Reset strength should be measured by paid-power utility depreciation, not by literal data deletion. Preserved generals can still be strongly depreciated when the new season changes the competitive environment and required lineups.
+9. Season reset supports horizontal general monetization by turning many simultaneous lineup needs into serialized demand across seasons: players retain ownership but repeatedly need new or rebuilt answers.
+10. Return to Empire is a useful fusion case: ROK-side free projection and troop attrition are combined with stronger Lutu-side seasonal lineup renewal. The resulting risk is double pressure on high-power players without equally strong connected-land organization value.
 
 ### Casual COK Like Growth
 

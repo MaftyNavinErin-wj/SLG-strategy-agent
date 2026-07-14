@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-13
+Last updated: 2026-07-14
 
 ## Purpose
 
@@ -248,8 +248,10 @@ These are stable enough for product and strategy discussion:
 9. Non-whale contribution is a core design problem. Winning SLG must give ordinary players socially recognized jobs.
 10. High-power constraint is the mirror image of ordinary-player value: COK / ROK-like systems tend to give ordinary players attrition / body value, while Lutu-like systems tend to give ordinary players organization / logistics value.
 11. Connected land is powerful because it carries organization complexity, limits high-power projection, and records established season success. Lutu-like games need map reset because established organization success otherwise becomes permanent order.
-12. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
-13. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
+12. Reset strength should be measured by paid-power utility depreciation, not literal asset deletion. Strong season reset can preserve generals and account progression while changing the environment enough to make existing lineups relatively less useful and renew horizontal roster demand.
+13. Return to Empire is a useful fusion case: it combines ROK-side free projection / attrition with stronger Lutu-side seasonal lineup renewal. Its risk is that high-power players face both in-season body consumption and between-season paid-power depreciation without equally strong connected-land organization value.
+14. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
+15. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 
 ## Volatile Claims That Require Verification
 

@@ -2,7 +2,7 @@
 
 Status: accepted working synthesis  
 Date: 2026-06-29  
-Latest refinement: 2026-07-12
+Latest refinement: 2026-07-14
 
 ## Why This Note Exists
 
@@ -183,6 +183,54 @@ Short version:
 2. Strong reset can use map / season / organization to stop high-power free projection.
 3. Lutu-like games keep strong teams relatively reusable because the campaign window needs those teams to repeatedly create strategic value.
 4. If organization results are not reset, high-organization games can lock faster than low-organization games because geographic advantage, alliance discipline, and high-power accounts compound together.
+
+### Reset As Paid-Power Utility Depreciation
+
+Reset also has a direct monetization function. Its strength should not be measured by how much account data is literally deleted. It should be measured by how much the relative utility of existing paid power is depreciated when the environment changes.
+
+A game may preserve generals, awakening, skill progression, collection depth, and account identity while still strongly resetting their utility through new season rules, maps, counters, skills, troop environments, and lineup requirements.
+
+For horizontal general / card monetization, season reset turns parallel demand into serial demand:
+
+1. Without seasons, many generals and lineups must prove simultaneous, durable value inside one permanent environment.
+2. With seasons, different environments can make different lineup answers valuable over time.
+3. Existing assets remain owned, but their relative usefulness changes.
+4. Players are therefore pushed to expand, update, or rebuild their usable roster each season.
+
+Compressed version:
+
+> Horizontal monetization creates recurring lineup demand through environment change; strong reset is strong paid-power utility depreciation, even when ownership is preserved.
+
+This is not a third axis separate from attrition and organization. Reset is one of the main mechanisms used to renew power competition and monetize the chosen structure.
+
+The gameplay and commercial functions can reinforce each other:
+
+1. In Lutu-like games, map reset clears established organization success while season environment change renews card / lineup demand.
+2. The same reset therefore both reopens the geopolitical contest and depreciates the relative utility of existing paid power.
+3. A product becomes more internally tense when commercial reset is strong but the gameplay need to clear organization results is weak.
+
+### Return To Empire As A Fusion Case
+
+The current working hypothesis is that Return to Empire combines:
+
+1. ROK-side real-time movement, relatively free high-power projection, focus fire, rally / garrison, and troop attrition.
+2. Lutu-side seasonal environment renewal and more horizontal general / skill monetization.
+3. Stronger season progression / map reset than a classic long-account COK / ROK structure, while preserving much of the paid hero asset base.
+
+The commercial logic is coherent. Season reset reduces the need to make every lineup simultaneously valuable in one permanent environment. Instead, the product can serialize lineup demand: each season changes the context and creates reasons to acquire or rebuild different teams.
+
+The structural tension is also clear:
+
+1. Because high-power players can project strength more freely than in a connected-land system, the battlefield needs troop attrition and collective focus fire to constrain them.
+2. Because the general economy uses stronger seasonal renewal, their paid roster also suffers between-season utility depreciation.
+3. High-power players may therefore feel constrained twice: paid power depreciates across seasons and is consumed during the season.
+4. Ordinary players do provide real-time attendance, focus-fire, rally, reinforcement, and attrition value, but the product does not create organization value as hard or as persistent as a connected-land network.
+
+Taxonomy placement:
+
+> Return to Empire sits closer to high attrition + medium organization intensity, with unusually strong seasonal paid-power depreciation for that position.
+
+This does not require a new taxonomy dimension. The season reset is part of how the product commercializes its position. The analytical warning is that high attrition and strong reset can stack pressure on high-power players when organization value is not strong enough to provide an equally compelling gameplay reason for the reset.
 
 ## Why Connected Land Matters
 

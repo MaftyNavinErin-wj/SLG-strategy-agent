@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-13
+Last updated: 2026-07-14
 
 ## Purpose
 
@@ -15,6 +15,33 @@ This is not a full research note. Keep entries short and decision-focused.
 2. Hypothesis: useful but needs further validation.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
+
+## 2026-07-14: Define Strong Reset As Strong Paid-Power Utility Depreciation
+
+Status: Accepted
+
+Decision:
+
+Reset strength should be defined by how strongly a new season depreciates the relative utility of existing paid power, not by how much account data is literally deleted. This commercial function belongs inside the existing attrition x organization framework and should not become a separate taxonomy axis.
+
+Rationale:
+
+Horizontal general / card monetization needs recurring lineup demand. A season system can preserve ownership, awakening, skills, and collection depth while changing maps, rules, counters, troop environments, and lineup requirements enough to make the existing roster less optimal. This turns simultaneous roster demand inside one permanent environment into serialized demand across seasons.
+
+Return to Empire makes the fusion tension visible. Its working model combines ROK-side real-time power projection and troop attrition with stronger Lutu-side seasonal environment renewal and horizontal general / skill monetization. High-power players can therefore face two forms of pressure: their battlefield body is consumed within the season, while their paid roster's relative utility depreciates between seasons.
+
+Implications:
+
+1. Do not classify reset strength from nominal inheritance rules alone; ask how much competitive utility survives.
+2. Strong reset naturally implies strong paid-power utility depreciation, even when the player still owns every general.
+3. In Lutu-like games, gameplay reset and commercial reset reinforce each other: map reset clears established organization success, while environment reset renews lineup demand.
+4. A fusion product is at greater risk when it combines high attrition and strong seasonal depreciation without creating equally strong ordinary-player organization value.
+5. Return to Empire should remain inside the 2x2 as a high-attrition, medium-organization case rather than creating a third axis for roster depreciation.
+
+Related files:
+
+1. `context/slg_internal_taxonomy_2x2.md`
+2. `context/agent_brief.md`
 
 ## 2026-07-13: Clarify The 2x2 As Attrition Intensity x Organization Intensity
 
