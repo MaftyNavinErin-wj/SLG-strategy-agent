@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-15
+Last updated: 2026-07-23
 
 ## Purpose
 
@@ -15,6 +15,34 @@ This is not a full research note. Keep entries short and decision-focused.
 2. Hypothesis: useful but needs further validation.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
+
+## 2026-07-23: Adopt The Derrick September 2025 Deck As The Internal Benchmark
+
+Status: Accepted
+
+Decision:
+
+Archive the explicitly approved `SLG山头讨论` PDF in the private repository and treat it as the baseline IEG view for SLG mountains, market structure, product judgments, output patterns, and capability requirements.
+
+The benchmark is a starting prior, not an unquestionable truth. New research must state whether it confirms, refines, or conflicts with the deck. Material conflicts should be logged by page and researched before the baseline is superseded.
+
+Rationale:
+
+The deck combines structural conclusions with market estimates, activity data, product economics, social design, UA, and team capability judgments. The A x G x R framework is more fundamental in explaining why the mountain split exists, but it should build on rather than erase the prior work. Future research should exceed the deck either through deeper causal explanation or more granular mechanics and output evidence.
+
+Implications:
+
+1. Use the deck before answering mountain, market, output, or capability questions.
+2. Separate classic COK, casual COK, and ROK in output analysis; the deck shows materially different acquisition and revenue structures.
+3. Treat direct ARPU, ARPPU, payer concentration, and cohort retention as open gaps because the deck mainly provides market, activity, and product-design proxies.
+4. Keep extracted text and rendered pages local under `tmp/`; only the approved source PDF and distilled notes belong in the repository.
+
+Related files:
+
+1. `sources/reference_decks/derrick_slg_mountain_20250923.pdf`
+2. `context/derrick_deck_benchmark.md`
+3. `context/slg_output_hypotheses.md`
+4. `context/slg_deck_digest.md`
 
 ## 2026-07-15: Expand The Internal Taxonomy To Attrition x Geo Constraint x Reset
 

@@ -1,6 +1,8 @@
 # SLG Deck Digest
 
-Source deck: `SLG山头讨论_20250923.pdf`
+Source deck: `sources/reference_decks/derrick_slg_mountain_20250923.pdf`
+
+Benchmark status: accepted September 2025 IEG baseline; see `context/derrick_deck_benchmark.md`
 
 This is a distilled working note for future conversations. It is not a page-by-page transcript.
 

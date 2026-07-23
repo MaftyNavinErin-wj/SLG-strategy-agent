@@ -1,18 +1,16 @@
 # Sources
 
-Do not commit raw confidential source decks by default.
+Raw confidential or copyrighted source files should not be committed by default. Archive them only when the user explicitly approves the specific source and the repository's access control is appropriate.
 
-Current local source:
+## Approved Internal Benchmark
 
-- `C:\Users\jie.wang\Documents\xwechat_files\a27246266_9b52\msg\file\2026-06\SLG山头讨论_20250923.pdf`
+- `sources/reference_decks/derrick_slg_mountain_20250923.pdf`: the 33-page `SLG山头讨论` deck dated September 2025, explicitly approved for this private repository on 2026-07-23.
+- `sources/reference_decks/README.md`: provenance, integrity hash, handling rule, and page map.
 
-Temporary local extraction created during analysis:
-
-- `C:\Users\jie.wang\Desktop\Admin\Game\slg_discussion_extracted.txt`
-
-Use these local files for analysis in Codex. Keep the repo as distilled working memory and reusable workflow unless the user explicitly asks to archive source files.
+Treat this deck as the baseline IEG SLG mountain view. It is a benchmark, not an unquestionable truth. Material inconsistencies should be recorded and researched rather than silently overwritten.
 
 ## Public Research
 
-- `sources/public_research/slg_representative_games_source_index.md`: public-source index for representative SLG mechanism research, currently covering 无尽冬日 / Whiteout Survival, 率土之滨, 三国志战略版, and 三国谋定天下.
+- `sources/public_research/slg_representative_games_source_index.md`: public-source index for representative SLG mechanism research.
 
+Do not commit temporary extraction text or rendered pages. Keep those under `tmp/`.

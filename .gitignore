@@ -7,9 +7,11 @@
 *_extracted.txt
 *extracted*.txt
 
+# Explicitly approved internal benchmark decks.
+!sources/reference_decks/*.pdf
+
 # Local temp / cache
 .DS_Store
 Thumbs.db
 tmp/
 cache/
-

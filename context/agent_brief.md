@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-15
+Last updated: 2026-07-23
 
 ## Purpose
 
@@ -20,6 +20,7 @@ Use the repo as layered working memory:
 5. Answer from stable distilled notes when the question is structural.
 6. Re-browse or verify when the question depends on live versions, current meta, current events, rankings, or patch state.
 7. State uncertainty when the source layer is incomplete or stale.
+8. For mountain, market, output, and capability questions, begin from the September 2025 Derrick benchmark and state whether new work confirms, refines, or conflicts with it.
 
 ## Maintenance Rules
 
@@ -52,12 +53,13 @@ If yes, update this brief. If no, put the material in the more specific context 
 
 ## Memory Architecture
 
-Use four layers:
+Use five layers:
 
 1. `context/agent_brief.md`: front desk. First-read orientation, routing rules, stable conclusions, volatile claims, and answer protocol.
 2. `context/topic_index.md`: library catalog. Lists topics and points to the right files.
 3. `context/decision_log.md`: judgment record. Captures framework decisions, status, and rationale.
 4. Topic notes and product notes: detailed synthesis and per-game mechanisms.
+5. `sources/reference_decks/`: explicitly approved internal benchmark material; raw-source authority and provenance, not the place for derived judgments.
 
 ## Core Thesis
 
@@ -146,8 +148,9 @@ Casualization is an overlay, not a clean quadrant. Whiteout Survival and Last Wa
 Read:
 
 1. `context/slg_deck_digest.md`
-2. `context/slg_internal_taxonomy_2x2x2.md`
-3. `context/slg_deck_page_by_page_walkthrough.md` only if page-level deck context is needed.
+2. `context/derrick_deck_benchmark.md`
+3. `context/slg_internal_taxonomy_2x2x2.md`
+4. `context/slg_deck_page_by_page_walkthrough.md` only if page-level deck context is needed.
 
 Use for:
 
@@ -155,6 +158,22 @@ Use for:
 2. ROK / fusion positioning.
 3. Casual COK Like growth.
 4. Why SLG is a war society rather than a theme category.
+
+### If The User Asks About Activity, ARPU, Retention, Payer Mix, Or Market Outputs
+
+Read:
+
+1. `context/slg_output_hypotheses.md`
+2. `context/derrick_deck_benchmark.md`
+3. `context/slg_internal_taxonomy_2x2x2.md`
+4. The relevant pages in `sources/reference_decks/derrick_slg_mountain_20250923.pdf` when exact deck numbers or charts matter.
+
+Use for:
+
+1. Directional output differences among classic COK, casual COK, ROK, Lutu Like, and fusion.
+2. Which conclusions are supported by deck data and which remain unmeasured hypotheses.
+3. Season activity curves, revenue structure, payer segmentation, retention, and server ecology.
+4. Designing the next data or diligence pass.
 
 ### If The User Asks About Representative Product Mechanics
 
@@ -262,6 +281,8 @@ These are stable enough for product and strategy discussion:
 16. Return to Empire is a useful fusion case: it combines ROK-side free projection / attrition with stronger Lutu-side seasonal lineup renewal. Its risk is that high-power players face both in-season body consumption and between-season paid-power depreciation without equally strong connected-land organization value.
 17. Community knowledge is part of the product because buildcraft, reports, opening, and live-meta interpretation are not fully legible from the client alone.
 18. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
+19. Classic COK, casual COK, and ROK should not share one output profile. Casual COK changes acquisition and reach while preserving a deep vertical backend; ROK adds real-time activity and migration / matching sensitivity.
+20. The September 2025 Derrick deck is the internal benchmark for mountain, market, product, and capability judgments. New work should explicitly confirm, refine, or challenge it.
 
 ## Volatile Claims That Require Verification
 
@@ -307,17 +328,19 @@ Before answering, classify the user question:
 4. Better fusion examples and a clearer placement of 重返帝国 and 指尖无双.
 5. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
 6. Player or officer interviews to validate alliance-operation conclusions.
-7. Market data and team capability mapping for BD / coverage prioritization.
+7. Direct payer conversion, ARPPU, revenue concentration, season-day revenue, and cohort-retention data by mountain and spend segment.
 8. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
+9. Product- and region-level validation of the Derrick deck's 2025 estimates and the current output hypotheses.
 
 ## Source Handling Rules
 
-1. Do not commit raw decks, full extracted deck text, or raw copyrighted community posts unless explicitly approved.
+1. Do not commit raw decks, full extracted deck text, or raw copyrighted community posts unless explicitly approved. The Derrick September 2025 deck is an approved exception for this private repository.
 2. Store distilled claims, URLs, reliability notes, and open questions.
 3. Official sources are best for rules, schedules, and update names.
 4. Wikis and databases are best for taxonomy and system vocabulary.
 5. Player guides are useful for practical strategy but must be date- and version-stamped.
 6. Tieba and forums are useful for live pain points and question discovery, not exact formulas unless backed by reproducible screenshots or data.
+7. Treat the Derrick deck as a high-quality dated benchmark. Record material discrepancies by page rather than silently overwriting the baseline.
 
 ## Short Self-Check Before Final Answers
 

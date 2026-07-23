@@ -1,6 +1,6 @@
 # SLG Deck Page-by-Page Walkthrough
 
-Source deck: `SLG山头讨论_20250923.pdf`
+Source deck: `sources/reference_decks/derrick_slg_mountain_20250923.pdf`
 
 This note is a page-by-page walkthrough of the source deck. It is intentionally a distilled reading note, not a transcript or full extraction.
 
@@ -743,4 +743,3 @@ For fusion SLG:
 3. Is the long-term economy robust enough?
 4. Is user understanding cost acceptable?
 5. Does the team have both MMO engineering and SLG social-operation capability?
-

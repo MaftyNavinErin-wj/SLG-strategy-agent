@@ -1,7 +1,7 @@
 # Topic Index
 
 Status: living index  
-Last updated: 2026-07-15
+Last updated: 2026-07-23
 
 ## Purpose
 
@@ -17,7 +17,7 @@ Do not put full analysis here. Each entry should stay short: what the topic is, 
 4. Topic notes: detailed synthesis for each question area.
 5. `context/game_mechanics/`: per-game mechanism notes and dated live snapshots.
 6. `workflows/`: reusable research and output processes.
-7. `sources/`: source indexes and reliability logs, not raw confidential content.
+7. `sources/`: source indexes, reliability logs, and explicitly approved internal benchmark decks.
 
 ## Core SLG Mountain Frame
 
@@ -31,8 +31,9 @@ Read:
 
 1. `context/agent_brief.md`
 2. `context/slg_deck_digest.md`
-3. `context/slg_deck_page_by_page_walkthrough.md` when page-level deck context is needed
-4. `workflows/mountain_discussion_agent_workflow.md`
+3. `context/derrick_deck_benchmark.md`
+4. `context/slg_deck_page_by_page_walkthrough.md` when page-level deck context is needed
+5. `workflows/mountain_discussion_agent_workflow.md`
 
 One-line read:
 
@@ -57,6 +58,25 @@ Read:
 One-line read:
 
 The primary mechanism cube is body attrition / repeated-use cost x geo dependency / spatial reach x reset / temporal persistence. Its constraint vector shapes vertical magnitude / throughput versus horizontal optionality / adaptation and therefore the dominant monetization pressure. The older attrition x organization 2x2 remains a useful player-facing projection.
+
+## Operating Outputs: Activity, Monetization, And Retention
+
+Use when asking:
+
+1. How classic COK, casual COK, ROK, Lutu Like, and fusion should differ in activity, revenue, payer mix, retention, and ecology.
+2. Which output claims are supported by the Derrick deck and which remain hypotheses.
+3. How higher-tier structure and lower-tier implementation / live ops combine into monitored outputs.
+
+Read:
+
+1. `context/slg_output_hypotheses.md`
+2. `context/derrick_deck_benchmark.md`
+3. `context/slg_internal_taxonomy_2x2x2.md`
+4. `sources/reference_decks/derrick_slg_mountain_20250923.pdf` for exact baseline charts and numbers
+
+One-line read:
+
+Higher-tier structure sets the characteristic power, monetization, and failure-mode direction; supporting features and live ops determine the realized activity, ARPU, retention, payer distribution, and server ecology.
 
 ## Representative Product Mechanics
 

@@ -14,11 +14,11 @@ The goal is not generic market research. The target output should help Tencent I
 
 Starting category: SLG mobile games.
 
-Reference source deck, kept outside the repo:
+Primary internal benchmark deck, explicitly approved for this private repo:
 
-`C:\Users\jie.wang\Documents\xwechat_files\a27246266_9b52\msg\file\2026-06\SLG山头讨论_20250923.pdf`
+`sources/reference_decks/derrick_slg_mountain_20250923.pdf`
 
-Raw decks and extracted full text should not be committed unless explicitly approved.
+This deck represents the September 2025 IEG SLG mountain baseline. New research should state whether it confirms, refines, or conflicts with that baseline. Raw decks and extracted full text should otherwise not be committed unless explicitly approved.
 
 ## Repo Structure
 
@@ -26,7 +26,7 @@ Raw decks and extracted full text should not be committed unless explicitly appr
 - `workflows/`: reusable agent workflows for future category analysis.
 - `templates/`: deck / memo templates.
 - `prompts/`: prompts for starting a new AI thread with the right context.
-- `sources/`: source manifest only; no raw confidential files by default.
+- `sources/`: source manifests, public-research indexes, and explicitly approved internal benchmark material.
 
 Key context notes:
 
@@ -35,6 +35,8 @@ Key context notes:
 - `context/decision_log.md`: record of major framework decisions, status, rationale, and implications.
 - `context/slg_deck_digest.md`: distilled thesis and teardown framework for the SLG source deck.
 - `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
+- `context/derrick_deck_benchmark.md`: authority, page map, and discrepancy protocol for using the September 2025 IEG view as a benchmark rather than an unquestioned truth.
+- `context/slg_output_hypotheses.md`: output-layer hypotheses for activity, monetization, payer structure, retention, and ecology, benchmarked against the deck's conclusions and numbers.
 - `context/slg_representative_games_research_findings.md`: current synthesis of research method conclusions and representative product findings.
 - `context/slg_representative_mechanics_overview.md`: first-pass mechanism comparison for representative SLG products, currently 无尽冬日, 率土之滨, 三国志战略版, and 三国谋定天下.
 - `context/slg_internal_taxonomy_2x2x2.md`: working 2x2x2 for SLG power constraints: body attrition / repeated-use cost, geo dependency / spatial reach, and season reset / temporal persistence, with vertical-horizontal power and monetization treated as downstream outcomes.
