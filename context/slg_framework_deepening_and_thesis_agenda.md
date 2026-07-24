@@ -1,169 +1,162 @@
-# SLG Framework Deepening And Opportunity-Thesis Agenda
+# SLG Framework Deepening Agenda
 
-Status: current pre-onboarding research agenda  
+Status: current accepted working structure
 Date: 2026-07-24
 
-## Current Priority Order
+## Purpose
 
-The near-term job is not to simulate a full coverage organization without data or team access. The work should proceed in this order:
+The job is to understand SLG structure, features, pain points, and coherent variants more clearly. Trend judgment is not a separate starting objective. It should emerge after enough products and variants have been explained by the same framework.
 
-1. Deepen the structural framework after A x G x R.
-2. Build a bounded public evidence layer that makes blanks explicit.
-3. Develop opportunity theses from unresolved structural tensions.
-4. Preserve a team-capability evaluation interface for later use.
-5. Preserve a sub-genre coverage-map interface for later use.
+Keep the A x G x R core simple. Do not force theme, UA, onboarding, every supporting feature, or every output into new primary axes.
 
-Framework and evidence should iterate together. A thesis should not wait for perfect data, but every thesis should state what evidence would falsify it.
+## Current Architecture
 
-## Corrected Hierarchy
+### Tier 0: A x G x R
 
-The levels should not be treated as four equal tiers.
+Tier 0 describes the three fundamental ways accumulated power is constrained.
 
-1. **Tier 0 — genre-defining constraints:** body attrition / repeated-use cost, geo dependency / spatial projection, and reset / temporal persistence.
-2. **Structural result — not a tier:** the topology of player power and its compatible monetization regime.
-3. **Tier 2 — supporting systems:** features that instantiate the Tier-0 constraints, create valued roles, make outcomes legible, align incentives, and manage burden.
-4. **Tier 3 — operating optimization:** live-ops cadence, rewards, matching, events, catch-up, convenience, and other local improvements.
-5. **Monitored outputs:** acquisition, activation, activity, payer conversion, ARPPU, payer distribution, retention, alliance ecology, revenue durability, and production / operation cost.
+1. **A — body attrition / repeated-use cost:** how painful one use of power is and how long it takes to use that power again.
+2. **G — geo dependency / spatial projection:** whether strong players can fight wherever they want or first need routes, access, supply, front lines, and alliance organization.
+3. **R — reset / temporal persistence:** how long accumulated power, map success, political order, and paid-asset utility remain competitively valuable.
 
-Higher layers set the feasible envelope and characteristic failure modes. Lower layers determine where a product lands inside that envelope.
+In plain language:
 
-## Deepening Workstream 1: Replace Vertical / Horizontal With A Power Topology
+1. How much does one battle hurt?
+2. Can a strong player fight anywhere at will?
+3. How long does today's advantage continue to matter?
 
-Vertical versus horizontal remains useful language, but it is too coarse for product comparison. Account power should be decomposed into at least six components:
+Tier 0 is the constraint, not the concrete feature. Troop death is one implementation of A; connected land is one implementation of G; season clearing is one implementation of R.
 
-1. **Magnitude:** strength of the best team, march, rally lead, city, or battle object.
-2. **Throughput:** how often that strength can be restored and reused after battle.
-3. **Capacity:** how many bodies / teams / marches can act simultaneously.
-4. **Optionality:** how many genuinely different answers the account owns.
-5. **Context elasticity:** how much matchups, terrain, season rules, roles, and enemy composition change the ranking of assets.
-6. **Persistence:** how long each component retains relative competitive value.
+### Tier 1: Features That Implement And Support AGR
 
-This resolves several current ambiguities:
+Tier 1 contains the structural features that turn AGR into a playable war society. They perform three broad jobs.
 
-1. ROK can require multiple marches while remaining mainly vertical: additional marches often add capacity and throughput rather than distinct answers.
-2. Lutu Like can be horizontal only when alternative teams change what the account can solve, not merely how much total force it fields.
-3. Red depth, gear, skill coexistence, troop-tech, and seasonal counters can create vertical and horizontal demand inside the same title.
+1. **Make the constraint real:** death, healing, training, routes, passes, supply, season settlement, map clearing, and environment change.
+2. **Create player and organization value:** rally filling, reinforcement, paving, scouting, logistics, counter roles, diplomacy, command, and alliance permissions.
+3. **Keep the structure workable:** necessary information, command tools, failure recovery, migration, catch-up, burden control, and ecology mechanisms when these are required for the structure to remain viable.
 
-### Questions To Research
+A feature belongs here when removing or materially changing it alters effective AGR, the source of ordinary-player value, the way power becomes map results, or the necessary alliance structure.
 
-1. What is the marginal competitive value of strengthening team one versus building team two through five?
-2. How much does the winning lineup order change across opponents, terrain, roles, and season rules?
-3. Can owned assets coexist, or do key cards / gear / action capacity create opportunity cost?
-4. Is failure solved by more stats, more recovery, more simultaneous bodies, or a different answer?
-5. How quickly does each power component depreciate, and is the depreciation explicit, environmental, or meta-driven?
+### Structural Results: Not A Numbered Tier
 
-## Deepening Workstream 2: Build A Monetization Causal Chain
+Tier 0 and Tier 1 together produce four important results.
 
-“Vertical sells resources; horizontal sells cards” is directionally right but incomplete. Each monetization system should be traced through:
+1. **Power structure:** whether accounts mainly become stronger at the top, can deploy more power for longer, or can solve more different problems.
+2. **Ordinary-player value:** whether players mainly provide bodies, routes and organization, or differentiated answers and roles.
+3. **Social structure:** whether the alliance becomes a head-and-body hierarchy, a multi-role organization, or another form of war society.
+4. **Compatible monetization:** why players pay, what the purchase improves, and why demand renews.
 
-> constraint / aspiration -> felt failure -> purchasable object -> competitive efficacy -> visibility / social meaning -> consumption or depreciation -> repurchase cadence.
+Vertical versus horizontal power remains useful shorthand:
 
-Five monetization primitives are useful:
+1. **Vertical:** spending mainly makes the best force stronger, increases total deployable force, or lets it fight longer.
+2. **Horizontal:** spending mainly gives the account genuinely different answers to different opponents, maps, roles, or season environments.
 
-1. **Stock:** persistent stats, tech, gear, VIP, city, troop tier, red depth.
-2. **Flow:** resources, healing, training, speedups, stamina, teleports, shields, recovery.
-3. **Capacity:** additional marches, queues, formations, deployment slots, concurrent action.
-4. **Option:** generals, skills, counters, roles, terrain / season answers, coexistence breadth.
-5. **Renewal and status:** seasonal portfolio renewal, meta replacement, cosmetics, alliance prestige, auction / reward visibility.
+Multi-team ownership is not automatically horizontal. If additional teams only add similar bodies or firepower, the demand is still mainly vertical / scale-oriented.
 
-The business questions then become more precise:
+### Tier 2: Local Optimization
 
-1. Which primitive creates payer conversion?
-2. Which creates the whale ceiling?
-3. Which creates a sustainable middle rather than only forced spend?
-4. Which creates recurring demand without destroying trust in retained assets?
-5. Which spend is socially productive for the alliance, and which only widens private domination?
+Tier 2 improves performance inside the existing structure without changing AGR or the main source of player value.
 
-## Deepening Workstream 3: Define Tier-2 Features By Function
+Examples include reward tuning, event cadence, interface improvements, repeated-click reduction, ordinary matching-parameter changes, catch-up-speed tuning, convenience, and late-season content adjustments.
 
-A long feature list is not analysis. A Tier-2 feature should be classified by the job it performs:
+The same named feature can sit at different levels depending on effect. A small matching adjustment is Tier 2; a new cross-server structure that changes how long political order persists can become Tier 1 and affect R. Automation that only removes clicks may be Tier 2; automation that removes alliance access dependency affects Tier 1 and G.
 
-1. **Constraint realization:** makes attrition, access, or reset real.
-2. **Contribution creation:** gives ordinary players body, logistics, intelligence, diplomacy, crafting, counter, or leadership value.
-3. **Legibility:** lets players understand why they won, lost, mattered, or should change behavior.
-4. **Burden control:** removes repetitive labor while preserving consequential decisions.
-5. **Incentive alignment:** makes personal, alliance, server, and competitive rewards point in compatible directions.
-6. **Failure management:** catch-up, matching, migration, server merge, comeback, anti-sandbagging, and late-season recovery.
-7. **Monetization translation:** turns the selected power topology into acceptable purchasable demand.
+### Outputs: Not A Tier
 
-This classification also exposes a common design error: a convenience feature can remove the labor but accidentally remove the spatial constraint, contribution role, or information signal that made the game strategic.
+Outputs test whether the combined structure is healthy.
 
-## Deepening Workstream 4: Model Outputs As A Funnel And A Clock System
+1. Can users enter and understand the product?
+2. Can they enter an alliance and find visible value?
+3. How long does the war remain meaningfully contestable?
+4. How long do players and alliances want to remain together?
+5. Why do players pay and is repeat demand sustainable?
+6. Are server ecology, content demand, and operating cost supportable?
 
-A x G x R does not directly determine D1 or CPI. Outputs should be separated into a funnel:
+War-contest duration, social-group lifetime, and commercial lifetime must not be treated as the same clock.
 
-> creative promise -> install -> first-session attachment -> alliance absorption -> first meaningful contribution -> first war -> payer conversion -> seasonal renewal -> group retention.
+## Simplified Follow-On Questions
 
-And into four clocks:
+### Power
 
-1. **Acquisition / activation clock:** whether the front end gets users into the system.
-2. **Effective-competition clock:** how long the strategic outcome remains genuinely contestable.
-3. **Commercial-renewal clock:** when spend demand renews through events, seasons, counters, or progression.
-4. **Social-group clock:** how long alliances, leadership, status, and relationships persist.
+Do not begin with six equal English dimensions. Ask three plain questions.
 
-The clocks can diverge. 三国：谋定天下 may have a short effective-competition clock but a longer commercial and social clock; classic COK may have a weak new-user clock but a very long high-value-account clock.
+1. **How strong is the best force?**
+2. **How much force can the account deploy, simultaneously and repeatedly?**
+3. **How many genuinely different problems can the account solve?**
 
-## Opportunity-Thesis Method
+When needed, the second question can be split into simultaneous deployment and recovery / repeated use. Context change is used to test whether different answers really matter. Power persistence is already analyzed under R.
 
-Each thesis should take the following form:
+### Monetization
 
-1. **Structural tension:** which desirable experiences currently conflict?
-2. **Invariant to preserve:** which source of strategy or social value must not be removed?
-3. **Tax to remove:** which labor, attrition, online, cognitive, or depreciation burden is non-essential?
-4. **Power topology:** what should high spenders and ordinary players become good at?
-5. **Monetization fit:** what can be sold without contradicting the experience promise?
-6. **Operating proof:** what public / internal outputs would show the thesis is working?
-7. **Falsifier:** what result would show that the opportunity is not real?
+Do not begin with a static shop-item list. Ask:
 
-## Initial Thesis Candidates
+1. Why does the player want to pay: defeat, falling behind, alliance responsibility, a missing answer, or social recognition?
+2. What does payment improve: stronger power, more / longer deployment, more answers, lower risk, or visible identity?
+3. Why does demand renew: consumption, continuing competition, a new environment, relative depreciation, or renewed status competition?
 
-These are research candidates, not yet investment conclusions.
+## Adjacent Module 1: Theme
 
-### Thesis A — Labor-Light Geo Strategy
+Theme is an independent research topic, but it is not a new AGR axis or numbered tier. It connects audience, core rules, social identity, content supply, and monetization meaning.
 
-Preserve route access, front-line state, logistics, diplomacy, and distributed organization value while automating repetitive paving, checking, and low-agency officer work.
+Ask four questions:
 
-The key design test is whether automation removes execution tax without making power freely projectable. This is the most direct extension of the A x G x R framework and a likely priority for Lutu-like evolution.
+1. Who does the theme attract?
+2. Which core rules does it make intuitive and legitimate?
+3. What long-term identity and alliance society does it support?
+4. What repeatable content and paid assets can it supply?
 
-### Thesis B — Persistent Social Capital, Reset Competitive Order
+Current questions to validate include:
 
-Reset map position and seasonal economy strongly enough to reopen competition, but preserve and grow non-power social assets: alliance identity, governance reputation, career / role mastery, history, mentorship, and portable group tools.
+1. Whether the strong relationship between Lutu-like products and Three Kingdoms is structural fit, market path dependency, or both.
+2. Whether ROK's civilization framing primarily fits its long-account world-war structure, its global UA / localization needs, its content supply, or all three.
+3. Whether other themes can reproduce the same rule legibility, social identity, roster depth, and audience readiness.
 
-The aim is to keep the fairness / renewal value of reset without making every season feel socially disposable or hostile to newcomers.
+## Adjacent Module 2: Entry And UA
 
-### Thesis C — Broad-Audience Entry Into Strategy-Native Midgame
+Entry and UA are important but partly outside the core game. They explain who enters, what promise attracts them, how complexity is exposed, and how the user is handed into the real SLG society.
 
-Casual COK has proven that a low-friction front end can acquire and retain broad audiences. The next opportunity may not be another casual wrapper feeding the same vertical backend, but a front end that graduates users into valued decisions, roles, and relationships before exposing heavy war obligation.
+Ask three questions:
 
-The question is whether broad reach can feed organization value and strategic literacy, rather than only a longer resource / power funnel.
+1. Why does the user enter: creative, theme, light loop, character, settlement, or another promise?
+2. When and how does the user encounter alliance contribution, competition, and war obligation?
+3. Does the entry promise connect smoothly to the backend, or does the product feel like it changes into a different game?
 
-### Thesis D — Real-Time War Without Double / Triple Tax
+Theme and entry interact but remain analytically distinct. Theme gives the experience meaning; entry and UA deliver that appeal and manage the transition into the core.
 
-Preserve readable live battlefield agency and spectacle while preventing simultaneous body attrition, attendance pressure, seasonal asset depreciation, and heavy organization labor from all peaking together.
+## Backtest Against Two Accepted Opportunity Directions
 
-Potential directions include bounded war windows, recoverable or capped attrition, stronger pre-war access decisions, asynchronous preparation, and a clearer split between capacity and answer-horizontal investment.
+### Labor-Light Lutu-Like
 
-### Thesis E — Horizontal Monetization Without Trust-Destroying Depreciation
+This direction is explained inside the core framework.
 
-Create recurring option demand through differentiated roles, maps, opponents, and coexistence rather than simply invalidating last season's cards.
+1. Preserve high G: strong power still needs access, routes, front lines, logistics, and organization.
+2. Replace Tier-1 implementations or improve Tier-2 interaction to remove repetitive paving, checking, and low-agency officer labor.
+3. Preserve ordinary-player organization value and the alliance's ability to determine where power becomes map control.
+4. The direction fails when burden reduction also removes spatial dependency and turns strong accounts into freely projectable strike platforms.
 
-The core metric would be old-asset continued use alongside new-asset adoption. The falsifier is a revenue model that requires increasingly rapid portfolio obsolescence to maintain sales.
+### Casual-COK Broad Entry
 
-## What To Do Now
+This direction requires the entry / UA module but does not require a new AGR axis.
 
-The next focused research cycle should not cover every title. It should test two theses deeply:
+1. The COK backend can retain its attrition, long-account vertical growth, body-value alliance structure, and deep monetization.
+2. Theme and a light front end broaden who enters and delay exposure to complexity.
+3. Success depends on a smooth handoff from early attachment into alliance contribution and backend obligation.
+4. The direction fails when the front-end promise and backend society attract different users, creating installs without alliance absorption or durable monetization.
 
-1. **Labor-Light Geo Strategy:** compare which “减负” changes preserve versus erase organization value across 率土、三战、三谋 and new entrants.
-2. **Broad-Audience Entry Into Strategy-Native Midgame:** compare Whiteout Survival, Last War, and Kingshot on the exact transition from casual attachment to alliance war, payer conversion, and churn.
+Whiteout Survival is an important fit case because survival theme can connect heating, settlement care, resource scarcity, group survival, alliance formation, and world competition into one continuous player story.
 
-In parallel, use one ROK / fusion case to refine capacity versus answer-horizontal power. This is a framework question, not yet a full market-coverage workstream.
+## Current Research Principle
 
-## Deferred Interfaces
+Analyze products and feature changes in this order:
 
-### Team-Capability Evaluation — Placeholder
+1. What AGR constraint is preserved or changed?
+2. Which Tier-1 implementation is added, removed, or replaced?
+3. Whose value increases or disappears?
+4. What power, social, pain, and monetization result follows?
+5. Is the issue structural, or can Tier-2 optimization solve it?
+6. How do theme and entry help or hinder the transition into that core?
+7. Do observable outputs support the proposed mechanism, and what would falsify it?
 
-When access exists, evaluate teams against the chosen thesis rather than a generic “good SLG team” score. Preserve categories for system design, battle / economy balance, alliance and social design, live ops, data and matching, content / UA, technical simulation, global operations, production discipline, and leadership continuity.
+The current architecture has three recognized modules: core structure, theme, and entry / UA. This is not yet assumed to be complete. Further product research should explicitly record important phenomena that none of the three modules can explain. Those unexplained residuals are candidates for a genuinely missing topic rather than reasons to pre-emptively expand the framework.
 
-### Sub-Genre Coverage Map — Placeholder
-
-The eventual map should be organized by sub-genre and thesis relevance, not by an undifferentiated company list. Each cell should track representative products, market size / trajectory, active teams, capability fit, product gaps, thesis, evidence status, and next diligence action.
+Team-capability assessment and a full sub-genre coverage map remain deferred interfaces.

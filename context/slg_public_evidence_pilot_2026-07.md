@@ -15,9 +15,11 @@ It does **not** attempt to manufacture a complete model from incomplete public d
 3. **Inference**: a causal interpretation produced by the A x G x R and power-structure framework.
 4. **Blank**: a field that public information does not support reliably enough.
 
-The current causal stack remains:
+The current causal stack is:
 
-> A x G x R -> power topology -> monetization regime -> supporting systems and live ops -> observed outputs.
+> entry / theme -> Tier-0 A x G x R implemented through Tier-1 systems -> power and social structure -> compatible monetization -> Tier-2 optimization -> observed outputs.
+
+Entry and theme are adjacent research modules, not new AGR axes or numbered tiers.
 
 Public information can currently validate the two ends of this chain better than the middle: product rules and high-level scale are visible; asset-level spend, payer distribution, cohort retention, alliance ecology, and causal attribution are mostly hidden.
 

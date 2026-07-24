@@ -36,6 +36,7 @@ Key context notes:
 - `context/slg_deck_digest.md`: distilled thesis and teardown framework for the SLG source deck.
 - `context/slg_deck_page_by_page_walkthrough.md`: page-by-page walkthrough of the SLG source deck, kept as a digest rather than a transcript.
 - `context/derrick_deck_benchmark.md`: authority, page map, and discrepancy protocol for using the September 2025 IEG view as a benchmark rather than an unquestioned truth.
+- `context/slg_framework_deepening_and_thesis_agenda.md`: current simplified architecture: Tier 0 AGR, Tier 1 structural support, Tier 2 local optimization, plus theme and entry / UA as adjacent research modules.
 - `context/slg_output_hypotheses.md`: output-layer hypotheses for activity, monetization, payer structure, retention, and ecology, benchmarked against the deck's conclusions and numbers.
 - `context/slg_representative_games_research_findings.md`: current synthesis of research method conclusions and representative product findings.
 - `context/slg_representative_mechanics_overview.md`: first-pass mechanism comparison for representative SLG products, currently 无尽冬日, 率土之滨, 三国志战略版, and 三国谋定天下.

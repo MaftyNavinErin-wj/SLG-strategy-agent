@@ -12,7 +12,9 @@ The core taxonomy defines product structure. This note tracks what that structur
 
 The causal stack is:
 
-> A x G x R core structure, implemented through supporting features -> vertical / horizontal power and monetization regime -> live-ops optimization -> monitored outputs.
+> entry / theme -> Tier-0 A x G x R implemented through Tier-1 supporting features -> power, social structure, and compatible monetization -> Tier-2 local optimization -> monitored outputs.
+
+Entry and theme are adjacent modules rather than additional AGR axes. The numbered hierarchy is now consistently Tier 0 = AGR, Tier 1 = structural support / implementation, and Tier 2 = local optimization.
 
 Higher-tier structure sets the characteristic direction, ceiling, and failure modes. Lower-tier execution determines where the product lands inside that structural envelope.
 

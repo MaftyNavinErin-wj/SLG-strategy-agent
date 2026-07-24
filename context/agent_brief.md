@@ -176,7 +176,7 @@ Use for:
 3. Season activity curves, revenue structure, payer segmentation, retention, and server ecology.
 4. Designing the next data or diligence pass.
 
-### If The User Asks What To Research Next Or For Opportunity Theses
+### If The User Asks About Framework Deepening, Theme, Entry / UA, Or What To Research Next
 
 Read:
 
@@ -186,11 +186,13 @@ Read:
 
 Use for:
 
-1. Deepening vertical / horizontal power into a fuller power topology.
-2. Connecting power structure to monetization primitives and repurchase cadence.
-3. Classifying Tier-2 support features by function.
-4. Prioritizing product / investment theses before team access exists.
-5. Preserving deferred team-capability and sub-genre coverage interfaces.
+1. Applying the consistent hierarchy: Tier 0 AGR, Tier 1 structural support / implementation, and Tier 2 local optimization.
+2. Reading power through three plain questions: best-force strength, total force deployable over time, and genuinely different problems the account can solve.
+3. Connecting AGR and Tier-1 features to ordinary-player value, alliance society, pain points, and compatible monetization.
+4. Analyzing theme as an adjacent topic covering audience, rule legitimacy, social identity, and content / asset supply.
+5. Analyzing entry / UA as an adjacent topic covering acquisition promise, complexity exposure, and handoff into the core SLG.
+6. Backtesting labor-light Lutu-like and casual-COK broad-entry directions without treating trend prediction as the starting objective.
+7. Recording important phenomena that core structure, theme, and entry / UA still cannot explain.
 
 ### If The User Asks About Representative Product Mechanics
 
@@ -300,6 +302,10 @@ These are stable enough for product and strategy discussion:
 18. Grand strategy / 4X and mobile SLG share map, resource, expansion, diplomacy, and war vocabulary, but direct live-service merger is structurally hard because simulation integrity, unique historical actors, continuous campaign time, and player sovereignty conflict with account assets, paid acceleration, appointment play, and alliance hierarchy.
 19. Classic COK, casual COK, and ROK should not share one output profile. Casual COK changes acquisition and reach while preserving a deep vertical backend; ROK adds real-time activity and migration / matching sensitivity.
 20. The September 2025 Derrick deck is the internal benchmark for mountain, market, product, and capability judgments. New work should explicitly confirm, refine, or challenge it.
+21. Use one consistent numbered hierarchy: Tier 0 is AGR, Tier 1 implements and supports AGR, and Tier 2 locally optimizes the existing structure. Power, social structure, monetization, and outputs are results rather than numbered tiers.
+22. Theme is an adjacent research module rather than a new AGR axis. It affects who is attracted, which rules feel legitimate, what social identity players inhabit, and what long-term content / paid assets the product can support.
+23. Entry / UA is another adjacent module. It explains the acquisition promise, complexity exposure, and whether users move smoothly into alliance contribution and the real SLG backend.
+24. Core structure, theme, and entry / UA are the three currently recognized modules, but they are not assumed to be complete. Unexplained product phenomena should be recorded before another module is added.
 
 ## Volatile Claims That Require Verification
 
@@ -339,15 +345,18 @@ Before answering, classify the user question:
 
 ## Current Research Gaps
 
-1. Asset-level power topology across magnitude, throughput, capacity, optionality, context elasticity, and persistence.
-2. Monetization demand and spend split across stock, flow, capacity, option, renewal, and status objects.
-3. More complete ROK coverage through Rise of Kingdoms / 万国觉醒, especially capacity-horizontal versus answer-horizontal demand.
-4. More complete Last War / Kingshot coverage as casual-COK transition-funnel cases.
-5. Better fusion examples and a clearer placement of 重返帝国 and 指尖无双.
-6. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
-7. Player or officer interviews to validate alliance-operation conclusions.
-8. Direct payer conversion, ARPPU, revenue concentration, season-day revenue, and cohort-retention data by mountain and spend segment.
-9. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
+1. Validate the simplified power read across products: best-force strength, total force deployable over time, and genuinely different problems the account can solve.
+2. Trace monetization from player failure, alliance responsibility, and social aspiration to the paid improvement and reason for repeat demand.
+3. Theme fit: Three Kingdoms and Lutu-like structure, civilization framing and ROK, survival framing and casual-COK entry, including structural fit versus market path dependency.
+4. Entry / UA fit: creative promise, light-loop attachment, complexity exposure, alliance absorption, and handoff into the real backend.
+5. More complete ROK coverage through Rise of Kingdoms / 万国觉醒, especially scale-oriented multi-team demand versus genuinely different answers.
+6. More complete Last War / Kingshot coverage as casual-COK entry-to-backend transition cases.
+7. Better fusion examples and a clearer placement of 重返帝国 and 指尖无双.
+8. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
+9. Player or officer interviews to validate alliance-operation conclusions.
+10. Direct payer conversion, ARPPU, revenue concentration, season-day revenue, and cohort-retention data by mountain and spend segment.
+11. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
+12. Important product phenomena that core structure, theme, and entry / UA still cannot explain.
 10. Product- and region-level validation of the Derrick deck's 2025 estimates and the current output hypotheses.
 
 ## Source Handling Rules

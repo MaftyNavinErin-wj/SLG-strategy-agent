@@ -16,9 +16,40 @@ This is not a full research note. Keep entries short and decision-focused.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
 
-## 2026-07-24: Prioritize Framework Depth, Public Evidence, And Thesis Before Coverage Operations
+## 2026-07-24: Simplify The Layering And Add Theme And Entry As Adjacent Modules
 
 Status: Accepted
+
+Decision:
+
+Use one consistent numbered hierarchy: Tier 0 is A x G x R; Tier 1 contains structural features that implement and support AGR; Tier 2 contains local optimization that does not change the core constraint or source of player value. Power structure, social structure, monetization, and outputs are results, not numbered tiers.
+
+Keep theme and entry / UA as independent adjacent research modules rather than forcing them into AGR. Theme explains audience attraction, rule legitimacy, social identity, and content / asset supply. Entry / UA explains acquisition promise, complexity exposure, and the handoff into alliance contribution and the core SLG backend.
+
+Rationale:
+
+AGR is valuable because it is simple. The earlier six-part power decomposition and seven-part supporting-feature taxonomy were useful prompts but too complex as a second framework. A simpler three-question power read is sufficient at the top level: best-force strength, total force that can be deployed over time, and genuinely different problems the account can solve.
+
+Backtesting also shows that labor-light Lutu-like evolution is explained by replacing Tier-1 implementation while preserving G and organization value. Casual-COK broad entry preserves much of the backend AGR and therefore requires a separate entry / UA explanation. Theme is necessary to explain why that entry feels continuous and why certain core rules, identities, and assets are accepted.
+
+Implications:
+
+1. The previous Tier-2 support / Tier-3 optimization numbering is superseded; use Tier 1 / Tier 2.
+2. Do not treat theme or entry as another primary genre axis.
+3. Evaluate labor reduction by whether it preserves the underlying constraint and ordinary-player value.
+4. Evaluate casual entry by whether users move smoothly from the acquisition promise into alliance contribution and backend obligation.
+5. Research why Lutu-like products cluster around Three Kingdoms, why ROK uses civilization framing, and why survival supports casual-COK entry without presuming those relationships are structural laws.
+6. Do not assume the three current modules are complete. Record important product phenomena that core structure, theme, and entry / UA cannot explain before adding another module.
+
+Related files:
+
+1. `context/slg_framework_deepening_and_thesis_agenda.md`
+2. `context/slg_internal_taxonomy_2x2x2.md`
+3. `context/slg_public_evidence_pilot_2026-07.md`
+
+## 2026-07-24: Prioritize Framework Depth, Public Evidence, And Thesis Before Coverage Operations
+
+Status: Superseded by the simplified layering decision above
 
 Decision:
 
