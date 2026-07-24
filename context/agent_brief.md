@@ -1,7 +1,7 @@
 # Agent Brief: SLG Strategy Working Memory
 
 Status: living entry point  
-Last updated: 2026-07-23
+Last updated: 2026-07-24
 
 ## Purpose
 
@@ -164,9 +164,10 @@ Use for:
 Read:
 
 1. `context/slg_output_hypotheses.md`
-2. `context/derrick_deck_benchmark.md`
-3. `context/slg_internal_taxonomy_2x2x2.md`
-4. The relevant pages in `sources/reference_decks/derrick_slg_mountain_20250923.pdf` when exact deck numbers or charts matter.
+2. `context/slg_public_evidence_pilot_2026-07.md`
+3. `context/derrick_deck_benchmark.md`
+4. `context/slg_internal_taxonomy_2x2x2.md`
+5. The relevant pages in `sources/reference_decks/derrick_slg_mountain_20250923.pdf` when exact deck numbers or charts matter.
 
 Use for:
 
@@ -174,6 +175,22 @@ Use for:
 2. Which conclusions are supported by deck data and which remain unmeasured hypotheses.
 3. Season activity curves, revenue structure, payer segmentation, retention, and server ecology.
 4. Designing the next data or diligence pass.
+
+### If The User Asks What To Research Next Or For Opportunity Theses
+
+Read:
+
+1. `context/slg_framework_deepening_and_thesis_agenda.md`
+2. `context/slg_public_evidence_pilot_2026-07.md`
+3. `context/slg_internal_taxonomy_2x2x2.md`
+
+Use for:
+
+1. Deepening vertical / horizontal power into a fuller power topology.
+2. Connecting power structure to monetization primitives and repurchase cadence.
+3. Classifying Tier-2 support features by function.
+4. Prioritizing product / investment theses before team access exists.
+5. Preserving deferred team-capability and sub-genre coverage interfaces.
 
 ### If The User Asks About Representative Product Mechanics
 
@@ -322,15 +339,16 @@ Before answering, classify the user question:
 
 ## Current Research Gaps
 
-1. More complete coverage of classic COK Like through Lords Mobile / 王国纪元 or a similar active sample.
-2. More complete coverage of ROK Like through Rise of Kingdoms / 万国觉醒.
-3. More complete coverage of Last War / Kingshot as casual COK Like cases.
-4. Better fusion examples and a clearer placement of 重返帝国 and 指尖无双.
-5. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
-6. Player or officer interviews to validate alliance-operation conclusions.
-7. Direct payer conversion, ARPPU, revenue concentration, season-day revenue, and cohort-retention data by mountain and spend segment.
-8. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
-9. Product- and region-level validation of the Derrick deck's 2025 estimates and the current output hypotheses.
+1. Asset-level power topology across magnitude, throughput, capacity, optionality, context elasticity, and persistence.
+2. Monetization demand and spend split across stock, flow, capacity, option, renewal, and status objects.
+3. More complete ROK coverage through Rise of Kingdoms / 万国觉醒, especially capacity-horizontal versus answer-horizontal demand.
+4. More complete Last War / Kingshot coverage as casual-COK transition-funnel cases.
+5. Better fusion examples and a clearer placement of 重返帝国 and 指尖无双.
+6. First-hand screenshots of UI, monetization surfaces, event cadence, and alliance tools.
+7. Player or officer interviews to validate alliance-operation conclusions.
+8. Direct payer conversion, ARPPU, revenue concentration, season-day revenue, and cohort-retention data by mountain and spend segment.
+9. Deeper research on grand strategy / 4X live-service models that preserve simulation legitimacy without importing mobile SLG pay-to-accelerate logic.
+10. Product- and region-level validation of the Derrick deck's 2025 estimates and the current output hypotheses.
 
 ## Source Handling Rules
 

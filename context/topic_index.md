@@ -1,7 +1,7 @@
 # Topic Index
 
 Status: living index  
-Last updated: 2026-07-23
+Last updated: 2026-07-24
 
 ## Purpose
 
@@ -70,13 +70,33 @@ Use when asking:
 Read:
 
 1. `context/slg_output_hypotheses.md`
-2. `context/derrick_deck_benchmark.md`
-3. `context/slg_internal_taxonomy_2x2x2.md`
-4. `sources/reference_decks/derrick_slg_mountain_20250923.pdf` for exact baseline charts and numbers
+2. `context/slg_public_evidence_pilot_2026-07.md`
+3. `context/derrick_deck_benchmark.md`
+4. `context/slg_internal_taxonomy_2x2x2.md`
+5. `sources/reference_decks/derrick_slg_mountain_20250923.pdf` for exact baseline charts and numbers
 
 One-line read:
 
 Higher-tier structure sets the characteristic power, monetization, and failure-mode direction; supporting features and live ops determine the realized activity, ARPU, retention, payer distribution, and server ecology.
+
+## Framework Deepening And Opportunity Theses
+
+Use when asking:
+
+1. What should be researched next before internal data or team access exists?
+2. How should vertical / horizontal power, commercialization, Tier-2 features, and outputs be made more precise?
+3. Which product / investment theses follow from the current framework?
+4. What capability and coverage interfaces should be preserved for later work?
+
+Read:
+
+1. `context/slg_framework_deepening_and_thesis_agenda.md`
+2. `context/slg_internal_taxonomy_2x2x2.md`
+3. `context/slg_public_evidence_pilot_2026-07.md`
+
+One-line read:
+
+The current priority is framework depth, bounded public evidence, and opportunity thesis; team assessment and the sub-genre coverage map remain deferred interfaces until access exists.
 
 ## Representative Product Mechanics
 

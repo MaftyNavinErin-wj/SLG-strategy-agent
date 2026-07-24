@@ -1,7 +1,7 @@
 # Decision Log
 
 Status: living judgment record  
-Last updated: 2026-07-23
+Last updated: 2026-07-24
 
 ## Purpose
 
@@ -15,6 +15,34 @@ This is not a full research note. Keep entries short and decision-focused.
 2. Hypothesis: useful but needs further validation.
 3. Watch: promising idea, not yet stable enough to drive answers.
 4. Superseded: no longer the current view; keep for history only.
+
+## 2026-07-24: Prioritize Framework Depth, Public Evidence, And Thesis Before Coverage Operations
+
+Status: Accepted
+
+Decision:
+
+Before formal onboarding and internal data / team access, prioritize: (1) deepening the framework after A x G x R, (2) building a bounded public evidence layer, and (3) developing opportunity theses. Preserve team-capability assessment and the sub-genre coverage map as deferred interfaces rather than pretending to operate them now.
+
+Treat vertical / horizontal power as an intermediate result that needs a fuller power topology, not as a numbered tier. Classify Tier-2 support features by the function they perform and Tier-3 features as operating optimization.
+
+Rationale:
+
+A x G x R is comparatively mature, while power structure, commercialization, supporting systems, and observable outputs remain under-specified. Public sources can validate market scale and lifecycle better than payer economics or social ecology. Opportunity theses can be developed before team access and should guide later team diligence rather than follow it.
+
+Implications:
+
+1. Mark every public output as direct fact, proxy, inference, or blank.
+2. Do not infer payer rate, ARPPU, spend-tier retention, or alliance ecology from revenue rankings.
+3. Research power as magnitude, throughput, capacity, optionality, context elasticity, and persistence.
+4. Trace monetization from felt constraint through purchasable object, efficacy, depreciation, and repurchase cadence.
+5. Test a small number of theses deeply before expanding to comprehensive product / company coverage.
+
+Related files:
+
+1. `context/slg_public_evidence_pilot_2026-07.md`
+2. `context/slg_framework_deepening_and_thesis_agenda.md`
+3. `context/slg_internal_taxonomy_2x2x2.md`
 
 ## 2026-07-23: Adopt The Derrick September 2025 Deck As The Internal Benchmark
 
